@@ -2,44 +2,32 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
-      "change": "Resource NiceChart - NiceChartLoader.js",
+      "change": "Resource NiceChart - NiceChart.js",
       "status": "untested"
    }],
    "date": "2015-4-7",
-   "filterValue": "change",
+   "filterValue": "fix",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed",
-   "test-status": "untested",
-   "text": "Change Log has been started today, all changes in the component are now in the log",
-   "title": "Start of Change Log"
+   "test-status": "ok",
+   "test-icon": "sap-icon://flag",
+   "text": "Changes: Resource NiceChart - NiceChart.js;",
+   "title": "There were 1 changes in the component. Increasse of tooltip to 300px for longer texts."
 }, 
 {
-   "author": "n/a",
+   "author": "Karol",
    "changes": [{
       "change": "Resource NiceChart - NiceChartLoader.js",
-      "status": "untested"
+      "status": "ok"
    }],
    "date": "2015-4-7",
-   "filterValue": "change",
+   "filterValue": "fix",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed",
-   "test-status": "untested",
-   "text": "Change Log has been started today, all changes in the component are now in the log",
-   "title": "Start of Change Log"
-}, 
-{
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource NiceChart - NiceChartLoader.js",
-      "status": "untested"
-   }],
-   "date": "2015-4-7",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed",
-   "test-status": "untested",
-   "text": "Change Log has been started today, all changes in the component are now in the log",
-   "title": "Start of Change Log"
+   "test-comment": "chart is loading correctly, reference issue is fixed",
+   "test-status": "ok",
+   "test-icon": "sap-icon://accept",
+   "text": "issue #42: js reference is incorrect after changes in the structure",
+   "title": "Fix for issue #42"
 }, 
 {
    "date":"2015-4-7",
