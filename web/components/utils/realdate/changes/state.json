@@ -1,5 +1,30 @@
 changeLog = [
 {
+   "author": "Karol",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getDayName",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getMonthName",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-7",
+   "filterValue": "fix",
+   "icon": "sap-icon://flag",
+   "test-comment": "both methods are now returning string",
+   "test-icon": "sap-icon://ok",
+   "test-status": "ok",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function getDayName;Ztl Function getMonthName;",
+   "title": "There were 3 changes in the component. Changing return type for getMonthName() and getDayName()"
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
