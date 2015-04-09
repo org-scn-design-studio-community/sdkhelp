@@ -1,5 +1,46 @@
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Properties created at date",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function formatWithMask",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function initialize",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function internal toString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function private checkPrototypeFormat",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function private checkPrototypeRecalculate",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Properties created at date;Resource def - contribution.ztl;New Ztl Function formatWithMask;Ztl Function initialize;Ztl Function internal toString;New Ztl Function private checkPrototypeFormat;New Ztl Function private checkPrototypeRecalculate;",
+   "title": "There were 7 changes in the component."
+}, 
+{
    "author": "Karol",
    "changes": [
       {
