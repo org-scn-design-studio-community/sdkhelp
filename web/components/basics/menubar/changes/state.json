@@ -1,18 +1,24 @@
 changeLog = [
 {
    "author": "n/a",
-   "changes": [{
-      "change": "Properties created at date",
-      "status": "untested"
-   }],
-   "date": "2015-4-8",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addSubMenuItem",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Properties created at date;",
-   "title": "There were 1 changes in the component."
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function addSubMenuItem;",
+   "title": "There were 2 changes in the component."
 }, 
 {
    "date":"2015-4-7",
