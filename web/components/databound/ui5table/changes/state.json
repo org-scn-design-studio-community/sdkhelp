@@ -1,5 +1,20 @@
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource UI5Table - UI5Table.js",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "checked - rendering also working when no data is assigned, columns are rerendered",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "(1) The table is now handling dummy data set correctly. (2) correct reload of columns, previously changes in column number were not reflected.",
+   "title": "(1) Fix for work with dummy data set (when no data is assigned); (2) reloading of the content when resultset info is used as provisioning."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
