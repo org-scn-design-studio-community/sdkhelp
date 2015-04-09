@@ -1,5 +1,38 @@
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property DSelectedText",
+         "status": "untested"
+      },
+      {
+         "change": "Resource NavigationBar - NavigationBar.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedItemText",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property DSelectedText;Resource NavigationBar - NavigationBar.js;Resource def - contribution.xml;Resource def - contribution.ztl;New Ztl Function getSelectedItemText;",
+   "title": "There were 5 changes in the component."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
