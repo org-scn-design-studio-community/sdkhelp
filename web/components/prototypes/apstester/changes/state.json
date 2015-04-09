@@ -1,5 +1,257 @@
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property doublearray",
+         "status": "untested"
+      },
+      {
+         "change": "New Property singlearray",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ApsTester - ApsTester.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDoublearray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSinglearray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDoublearray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSinglearray",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property doublearray;New Property singlearray;Resource ApsTester - ApsTester.js;Resource def - contribution.xml;Resource def - contribution.ztl;Resource spec - specification.json;New Ztl Function getDoublearray;New Ztl Function getSinglearray;New Ztl Function setDoublearray;New Ztl Function setSinglearray;",
+   "title": "There were 10 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property stringarray",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ApsTester - ApsTester.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getStringarray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setStringarray",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property stringarray;Resource ApsTester - ApsTester.js;Resource def - contribution.xml;Resource def - contribution.ztl;Resource spec - specification.json;New Ztl Function getStringarray;New Ztl Function setStringarray;",
+   "title": "There were 7 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource ApsTester - ApsTester.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ApsTester - ApsTester.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource ApsTester - ApsTester.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ApsTester - ApsTester.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property KeyArray",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ApsTester - ApsTester.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getKeyArray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setKeyArray",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property KeyArray;Resource ApsTester - ApsTester.js;Resource def - contribution.xml;Resource def - contribution.ztl;Resource spec - specification.json;New Ztl Function getKeyArray;New Ztl Function setKeyArray;",
+   "title": "There were 7 changes in the component."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
