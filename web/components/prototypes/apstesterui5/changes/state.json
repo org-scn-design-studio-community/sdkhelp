@@ -5,6 +5,57 @@ changeLog = [
       "change": "Resource def - contribution.xml",
       "status": "untested"
    }],
+   "date": "2015-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2015-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource ApsTesterUI5 - ApsTesterUI5.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - PropertyPage.def.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ApsTesterUI5 - ApsTesterUI5.js;New Resource def - PropertyPage.def.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
    "date": "2015-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
