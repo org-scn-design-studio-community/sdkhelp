@@ -9,10 +9,10 @@ changeLog = [
    ],
    "date": "2015-4-14",
    "filterValue": "change",
-   "icon": "sap-icon://notes",
+   "icon": "sap-icon://flag",
    "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: Resource Gauge - Gauge.js, timeer removed, needle is now working correctly.",
    "title": "There were 1 changes in the component. Fix for Gauge needle Spins while initial page load. #46"
 }, 
