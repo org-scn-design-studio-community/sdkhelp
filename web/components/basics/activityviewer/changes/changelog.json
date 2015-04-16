@@ -24,6 +24,136 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource ActivityViewer - ActivityViewer.css",
+      "status": "untested"
+   }],
+   "date": "2015-4-17",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ActivityViewer - ActivityViewer.css;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Resource ActivityViewer - ActivityViewer.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ActivityViewer - ActivityViewer.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-17",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Resource ActivityViewer - ActivityViewer.css;Resource ActivityViewer - ActivityViewer.js;Resource def - contribution.xml;Resource spec - component.json;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - component.json",
+      "status": "untested"
+   }],
+   "date": "2015-4-16",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - component.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property activities",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ActivityViewer - ActivityViewer.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-16",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property activities;Resource ActivityViewer - ActivityViewer.js;Resource def - contribution.xml;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource ActivityViewer - ActivityViewer.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ActivityViewer - ActivityViewerLoader.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-16",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ActivityViewer - ActivityViewer.js;Resource ActivityViewer - ActivityViewerLoader.js;Resource spec - component.json;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource ActivityViewer - ActivityViewerLoader.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-16",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ActivityViewer - ActivityViewerLoader.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
    "date":"2015-4-16",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
