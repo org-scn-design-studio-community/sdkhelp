@@ -1,5 +1,26 @@
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource Slider - Slider.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Slider - Slider.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-15",
+   "filterValue": "enchancement",
+   "icon": "sap-icon://notes",
+   "test-comment": "checked vertical mode of the component",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "Better text display in vertical mode. Changes: New Resource Slider - Slider.css;Resource Slider - Slider.js;Resource def - contribution.xml;",
+   "title": "There were 3 changes in the component. Better style for vertical usage (now texts are nto broken, 200px is reserved for texts)."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",

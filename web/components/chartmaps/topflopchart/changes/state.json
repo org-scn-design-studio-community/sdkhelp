@@ -3,11 +3,15 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
-         "change": "New Resource Slider - Slider.css",
+         "change": "Component Group",
          "status": "untested"
       },
       {
-         "change": "Resource Slider - Slider.js",
+         "change": "Resource TopFlopChart - TopFlopChart.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource TopFlopChart - TopFlopChart.js",
          "status": "untested"
       },
       {
@@ -16,13 +20,13 @@ changeLog = [
       }
    ],
    "date": "2015-4-15",
-   "filterValue": "enchancement",
+   "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "checked vertical mode of the component",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Better text display in vertical mode. Changes: New Resource Slider - Slider.css;Resource Slider - Slider.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component. Better style for vertical usage (now texts are nto broken, 200px is reserved for texts)."
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Group;Resource TopFlopChart - TopFlopChart.css;Resource TopFlopChart - TopFlopChart.js;Resource def - contribution.xml;",
+   "title": "There were 4 changes in the component."
 }, 
 {
    "date":"2015-4-7",
