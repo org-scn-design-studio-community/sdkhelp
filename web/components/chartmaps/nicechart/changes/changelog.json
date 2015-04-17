@@ -1,0 +1,57 @@
+changeLog = [
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource NiceChart - NiceChart.js",
+      "status": "untested"
+   }],
+   "date": "2015-4-17",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource NiceChart - NiceChart.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "Karol",
+   "changes": [{
+      "change": "Resource NiceChart - NiceChart.js",
+      "status": "untested"
+   }],
+   "date": "2015-4-7",
+   "filterValue": "improvement",
+   "icon": "sap-icon://flag",
+   "test-comment": "checked, tooltip is now longer in the given example",
+   "test-status": "ok",
+   "test-icon": "sap-icon://accept",
+   "text": "Changes: Resource NiceChart - NiceChart.js;",
+   "title": "There were 1 changes in the component. Increasse of tooltip to 300px for longer texts."
+}, 
+{
+   "author": "Karol",
+   "changes": [{
+      "change": "Resource NiceChart - NiceChartLoader.js",
+      "status": "ok"
+   }],
+   "date": "2015-4-7",
+   "filterValue": "fix",
+   "icon": "sap-icon://flag",
+   "test-comment": "chart is loading correctly, reference issue is fixed",
+   "test-status": "ok",
+   "test-icon": "sap-icon://accept",
+   "text": "issue #42: js reference is incorrect after changes in the structure",
+   "title": "Fix for issue #42"
+}, 
+{
+   "date":"2015-4-7",
+   "title":"Start of Change Log",
+   "text":"Change Log has been started today, all changes in the component are now in the log",
+   "author":"n/a",
+   "icon":"sap-icon://notes",
+   "filterValue":"creation",
+   "test-status":"untested",
+   "test-comment":"Initial component status placement"
+}
+]

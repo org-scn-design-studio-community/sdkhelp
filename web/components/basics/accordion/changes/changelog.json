@@ -1,0 +1,162 @@
+// small in-place help
+
+// CHANGE AREA
+// author:       the author, n/a initially, the developer can add his name
+// date:         the date when the chnage was made (generated)
+// title:        change title, initially generated but can be adjusted (probably by the developer)
+// text:         a longer text, initially it is listing all areas of the change, can be also adjusted (probably by the developer)
+// filterValue:  helps on filtering, should be one of 
+//               bug        | enhancement      | improvement
+//               Try to be in sync with issues under https://github.com/org-scn-design-studio-community/sdkpackage/issues
+// icon:         should correspond to the filterValue, should be one of
+//               flag       | badge            | bookmark
+
+// TEST AREA
+// test-comment: any comment on the test scenario, you can also refer to some blog or others
+// test-status:  the status, initially it is set to untested - this results in "yellow". change to:
+//               good or ok: when test is positive (small case)
+//               bad: when the test is negative (small case)
+// 
+// test-icon:    icon corresponding to the status, change for    
+//               flag - when status is bad
+//               accept - when status is good  
+
+
+changeLog = [
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Component Group",
+         "status": "untested"
+      },
+      {
+         "change": "New Component Name",
+         "status": "untested"
+      },
+      {
+         "change": "New Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "New Properties created at date",
+         "status": "untested"
+      },
+      {
+         "change": "New Property cleanAll",
+         "status": "untested"
+      },
+      {
+         "change": "New Property defaultImage",
+         "status": "untested"
+      },
+      {
+         "change": "New Property elementsContent",
+         "status": "untested"
+      },
+      {
+         "change": "New Property expandedKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Property imageSize",
+         "status": "untested"
+      },
+      {
+         "change": "New Property maxSectionHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onFirstExpand",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onSelectionChanged",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Property withImage",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource Accordion - Accordion.css",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource Accordion - Accordion.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource Accordion - Accordion.png",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - custom.html",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addElement",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addSection",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getExpandedKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getMaxSectionHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllElements",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setExpandedKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setMaxSectionHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedKey",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-16",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Component Group;New Component Name;New Component Title;New Properties created at date;New Property cleanAll;New Property defaultImage;New Property elementsContent;New Property expandedKey;New Property imageSize;New Property maxSectionHeight;New Property onFirstExpand;New Property onSelectionChanged;New Property selectedKey;New Property withImage;New Resource Accordion - Accordion.css;New Resource Accordion - Accordion.js;New Resource Accordion - Accordion.png;New Resource def - contribution.xml;New Resource def - contribution.ztl;New Resource def - custom.html;New Ztl Function addElement;New Ztl Function addSection;New Ztl Function getExpandedKey;New Ztl Function getMaxSectionHeight;New Ztl Function getSelectedKey;New Ztl Function removeAllElements;New Ztl Function setExpandedKey;New Ztl Function setMaxSectionHeight;New Ztl Function setSelectedKey;",
+   "title": "There were 29 changes in the component."
+}, elementKey,String;elementText,String;imageUrl,String;parentElementKey,String;(isLeaf,boolean)]|CONT\:7094aa6f6add4d6a86192a9be089cf71|
+Ztl_Function_addSection=void|[elementKey,String;elementText,String;imageUrl,String]|CONT\:8647bea9d024a42bca2b9bbc12e35518|
+Ztl_Function_getExpandedKey=String|CONT\:bea90781c720eac4b939b5552da8a458|
+Ztl_Function_getMaxSectionHeight=String|CONT\:8316a0212604941573388b53e3fd7660|
+Ztl_Function_getSelectedKey=String|CONT\:6f68682bf45bcd97400c7ac37e3e388b|
+Ztl_Function_removeAllElements=void|CONT\:a2c7ef412591eb92ef754d84feefd693|
+Ztl_Function_setExpandedKey=void|[key,String]|CONT\:5eed61ab4f443aa6cee5d0c44fc23e00|
+Ztl_Function_setMaxSectionHeight=void|[height,String]|CONT\:f5d3358c4c990d44e66a5af26e19534a|
+Ztl_Function_setSelectedKey=void|[key,String]|CONT\:fd274f5444af495d2ae50c14ba1de243|
