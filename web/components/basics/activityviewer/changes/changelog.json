@@ -25,6 +25,39 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ActivityViewer - ActivityViewer.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource ActivityViewer - ActivityViewer.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-17",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;Resource ActivityViewer - ActivityViewer.css;Resource ActivityViewer - ActivityViewer.js;Resource def - contribution.xml;Resource spec - component.json;",
+   "title": "There were 5 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource ActivityViewer - ActivityViewer.css",
       "status": "untested"
