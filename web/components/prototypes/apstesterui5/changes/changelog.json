@@ -26,6 +26,42 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "Resource ApsTesterUI5 - ApsTesterUI5Spec.js",
+      "status": "untested"
+   }],
+   "date": "2015-4-20",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ApsTesterUI5 - ApsTesterUI5Spec.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource ApsTesterUI5 - ApsTesterUI5Loader.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-20",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ApsTesterUI5 - ApsTesterUI5Loader.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "Resource def - contribution.xml",
       "status": "untested"
    }],

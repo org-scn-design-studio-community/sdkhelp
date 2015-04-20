@@ -29,6 +29,21 @@ changeLog = [
       "change": "Resource UI5Table - UI5Table.js",
       "status": "untested"
    }],
+   "date": "2015-4-20",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource UI5Table - UI5Table.js; Table is resizing when size is smaller than number of rows x row height.",
+   "title": "There were 1 changes in the component. Resizing based on number of rows added, also support for "auto" sizes."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource UI5Table - UI5Table.js",
+      "status": "untested"
+   }],
    "date": "2015-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
