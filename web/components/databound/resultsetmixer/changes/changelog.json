@@ -24,6 +24,21 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource ResultSetMixer - ResultSetMixer.js",
+      "status": "untested"
+   }],
+   "date": "2015-4-20",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ResultSetMixer - ResultSetMixer.js; Eventing works also if the data source is not giving any resultset.",
+   "title": "There were 1 changes in the component. Missing Event propagation when no result set."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
