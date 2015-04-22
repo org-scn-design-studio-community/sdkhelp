@@ -29,7 +29,7 @@ changeLog = [
       {
          "change": "Resource Gauge - Gauge.js",
          "status": "untested"
-      },
+      }
    ],
    "date": "2015-4-14",
    "filterValue": "change",
