@@ -40,7 +40,7 @@ changeLog = [
       }
    ],
    "date": "2015-4-15",
-   "filterValue": "enchancement",
+   "filterValue": "enhancement",
    "icon": "sap-icon://notes",
    "test-comment": "checked vertical mode of the component",
    "test-icon": "sap-icon://accept",
