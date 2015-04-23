@@ -25,6 +25,31 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectionAsJSONObject",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Resource spec - contribution.ztl;New Ztl Function getSelectionAsJSONObject;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource UI5Table - UI5Table.js",
       "status": "untested"

@@ -25,33 +25,8 @@
 changeLog = [
 {
    "author": "n/a",
-   "changes": [
-      {
-         "change": "Resource ActivityViewer - ActivityViewerSpec.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      },
-      {
-         "change": "Resource spec - component.json",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-4-23",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource ActivityViewer - ActivityViewerSpec.js;Resource def - contribution.xml;Resource spec - component.json;",
-   "title": "There were 3 changes in the component."
-}, 
-{
-   "author": "n/a",
    "changes": [{
-      "change": "Resource def - contribution.xml",
+      "change": "New Resource JsonObject - JsonObject.png",
       "status": "untested"
    }],
    "date": "2015-4-23",
@@ -60,17 +35,17 @@ changeLog = [
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource def - contribution.xml;",
+   "text": "Changes: New Resource JsonObject - JsonObject.png;",
    "title": "There were 1 changes in the component."
 }, 
 {
-   "date":"2015-4-22",
+   "date":"2015-4-23",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
    "test-status":"untested",
-   "test-comment":"Initial component status placement. Not ready for use yet."
+   "test-comment":"Initial component status placement"
 }
 ]
