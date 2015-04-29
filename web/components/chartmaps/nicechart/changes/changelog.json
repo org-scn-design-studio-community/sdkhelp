@@ -6,7 +6,7 @@
 // title:        change title, initially generated but can be adjusted (probably by the developer)
 // text:         a longer text, initially it is listing all areas of the change, can be also adjusted (probably by the developer)
 // filterValue:  helps on filtering, should be one of 
-//               bug        | enhancement      | improvement
+//               bugfix     | enhancement      | improvement
 //               Try to be in sync with issues under https://github.com/org-scn-design-studio-community/sdkpackage/issues
 // icon:         should correspond to the filterValue, should be one of
 //               flag       | badge            | bookmark
@@ -60,7 +60,7 @@ changeLog = [
       "status": "ok"
    }],
    "date": "2015-4-7",
-   "filterValue": "fix",
+   "filterValue": "bugfix",
    "icon": "sap-icon://flag",
    "test-comment": "chart is loading correctly, reference issue is fixed",
    "test-status": "ok",
