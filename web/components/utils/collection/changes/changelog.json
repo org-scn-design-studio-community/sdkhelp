@@ -24,6 +24,27 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getEntryByKey",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-29",
+   "filterValue": "enhancement",
+   "icon": "sap-icon://badge",
+   "test-comment": "new method is returning the element by key",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "Changes: Resource def - contribution.ztl;New Ztl Function getEntryByKey;",
+   "title": "There were 2 changes in the component. New Method for Element Access by Key."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
