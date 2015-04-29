@@ -24,19 +24,19 @@
 
 changeLog = [
 {
-   "author": "n/a",
+   "author": "Karol",
    "changes": [{
       "change": "Resource ResultSetMixer - ResultSetMixer.js",
       "status": "untested"
    }],
-   "date": "2015-4-20",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+  "date": "2015-4-29",
+   "filterValue": "enhancement",
+   "icon": "sap-icon://badge",
+   "test-comment": "works ;-)",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: Resource ResultSetMixer - ResultSetMixer.js; Eventing works also if the data source is not giving any resultset.",
-   "title": "There were 1 changes in the component. Missing Event propagation when no result set."
+   "title": "Result Set Mixer works in the defined Scope. There were 1 changes in the component. Missing Event propagation when no result set."
 }, 
 {
    "date":"2015-4-7",
