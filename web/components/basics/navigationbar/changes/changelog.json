@@ -52,7 +52,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property DSelectedText;Resource NavigationBar - NavigationBar.js;Resource def - contribution.xml;Resource def - contribution.ztl;New Ztl Function getSelectedItemText;",
    "title": "There were 5 changes in the component."
 }, 
