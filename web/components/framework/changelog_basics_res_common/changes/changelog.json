@@ -51,7 +51,7 @@ changeLog = [
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"untested",
+   "test-status":"ok",
    "test-comment":"Initial component status placement"
 }
 ]
