@@ -32,9 +32,9 @@ changeLog = [
    "date": "2015-4-14",
    "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-comment": "New Files added",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 

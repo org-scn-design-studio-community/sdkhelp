@@ -24,7 +24,7 @@
 
 changeLog = [
 {
-   "author": "n/a",
+   "author": "Karol",
    "changes": [
       {
          "change": "Properties created at date",
@@ -58,9 +58,9 @@ changeLog = [
    "date": "2015-4-8",
    "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-comment": "Adding new method for native Data formatting",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: Properties created at date;Resource def - contribution.ztl;New Ztl Function formatWithMask;Ztl Function initialize;Ztl Function internal toString;New Ztl Function private checkPrototypeFormat;New Ztl Function private checkPrototypeRecalculate;",
    "title": "There were 7 changes in the component."
 }, 

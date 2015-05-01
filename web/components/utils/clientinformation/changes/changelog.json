@@ -38,8 +38,9 @@ changeLog = [
    "date": "2015-4-7",
    "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed",
-   "test-status": "untested",
+   "test-comment": "new method for reload, handling on invisible state works now",
+   "test-status": "ok",
+   "test-icon": "sap-icon://accept",
    "text": "Changes: Resource ClientInformation - ClientInformation.js;Resource def - contribution.xml;",
    "title": "There were 2 changes in the component."
 }, 

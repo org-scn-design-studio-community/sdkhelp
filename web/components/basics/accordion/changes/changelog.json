@@ -146,9 +146,9 @@ changeLog = [
    "date": "2015-4-16",
    "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-comment": "Initial creation of the change log",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: New Component Group;New Component Name;New Component Title;New Properties created at date;New Property cleanAll;New Property defaultImage;New Property elementsContent;New Property expandedKey;New Property imageSize;New Property maxSectionHeight;New Property onFirstExpand;New Property onSelectionChanged;New Property selectedKey;New Property withImage;New Resource Accordion - Accordion.css;New Resource Accordion - Accordion.js;New Resource Accordion - Accordion.png;New Resource def - contribution.xml;New Resource def - contribution.ztl;New Resource def - custom.html;New Ztl Function addElement;New Ztl Function addSection;New Ztl Function getExpandedKey;New Ztl Function getMaxSectionHeight;New Ztl Function getSelectedKey;New Ztl Function removeAllElements;New Ztl Function setExpandedKey;New Ztl Function setMaxSectionHeight;New Ztl Function setSelectedKey;",
    "title": "There were 29 changes in the component."
 }
