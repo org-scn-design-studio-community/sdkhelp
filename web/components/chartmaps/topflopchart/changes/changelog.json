@@ -46,9 +46,9 @@ changeLog = [
    "date": "2015-4-15",
    "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-comment": "Added new files to the component",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: Component Group;Resource TopFlopChart - TopFlopChart.css;Resource TopFlopChart - TopFlopChart.js;Resource def - contribution.xml;",
    "title": "There were 4 changes in the component."
 }, 
