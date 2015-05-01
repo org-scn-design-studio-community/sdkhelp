@@ -58,7 +58,7 @@ changeLog = [
    "test-icon": "sap-icon://accept",
    "test-status": "ok",
    "text": "This new property allows to switch result on or off",
-   "title": "Introduced property "IgnoreResults"."
+   "title": "Introduced property 'IgnoreResults'."
 },
 {
    "author": "Karol",
