@@ -81,7 +81,7 @@ changeLog = [
    "icon": "sap-icon://flag",
    "test-comment": "month name returns correct value now",
    "test-icon": "sap-icon://accept",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "calculation for month name adjusted - one index was incorrect.",
    "title": "getMonthName() returned incorrect month"
 }, 
