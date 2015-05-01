@@ -34,7 +34,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource NotificationBar - NotificationBar.js;",
    "title": "There were 1 changes in the component."
 }, 

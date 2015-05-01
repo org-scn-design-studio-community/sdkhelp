@@ -85,7 +85,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.ztl;Resource spec - contribution.ztl;New Ztl Function getSelectionAsJSONObject;",
    "title": "There were 3 changes in the component."
 }, 
@@ -100,7 +100,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource UI5Table - UI5Table.js; Table is resizing when size is smaller than number of rows x row height.",
    "title": "There were 1 changes in the component. Resizing based on number of rows added, also support for auto sizes."
 }, 
