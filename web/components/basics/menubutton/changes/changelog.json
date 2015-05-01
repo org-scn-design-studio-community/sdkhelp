@@ -58,9 +58,9 @@ changeLog = [
    "date": "2015-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-comment": "Initial Change Log, reporting new files",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
    "text": "Changes: New Property selectedText;Resource MenuButton - MenuButton.js;Resource def - contribution.xml;Resource def - contribution.ztl;Ztl Function addMenuItem;Ztl Function addSubMenuItem;New Ztl Function getSelectedText;",
    "title": "There were 7 changes in the component."
 }, 
