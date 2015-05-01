@@ -39,7 +39,7 @@ changeLog = [
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property DZeroValuesMode;New Ztl Function resetDimensions;",
    "title": "There were 2 changes in the component."
 }, 
