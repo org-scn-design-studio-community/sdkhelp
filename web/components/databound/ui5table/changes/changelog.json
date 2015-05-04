@@ -25,6 +25,21 @@
 changeLog = [
 {
    "author": "Karol",
+   "changes": [{
+      "change": "Resource UI5Table - UI5Table.js",
+      "status": "untested"
+   }],
+   "date": "2015-5-4",
+   "filterValue": "bugfix",
+   "icon": "sap-icon://flag",
+   "test-comment": "Test case, place component in panel or tabstrip which is set to width = auto. resize the content.",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "Now, the component can be placed in containers with auto-sizes.",
+   "title": "Adjustment to Resize for auto-sized components."
+},
+{
+   "author": "Karol",
    "changes": [
       {
          "change": "New Property DIgnoreResults",
