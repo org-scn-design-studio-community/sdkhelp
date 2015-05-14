@@ -14,7 +14,7 @@
 // when copying, copy the content between { and }, place between [ and { and separate with , character  
 blogs = [
 {
-   "author": Mike",
+   "author": "Mike",
    "authorLink": "http://scn.sap.com/people/mike.howles4",
    "date": "2015-2-7",
    "filterValue": "explaination",
@@ -24,7 +24,7 @@ blogs = [
    "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2015/02/07/guide-to-creating-geojson-and-topojson-map-files"
 },
 {
-   "author": Mike",
+   "author": "Mike",
    "authorLink": "http://scn.sap.com/people/mike.howles4",
    "date": "2015-2-13",
    "filterValue": "explaination",
@@ -34,7 +34,7 @@ blogs = [
    "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2015/02/13/design-studio-sdk-1314--open-source-maps-part-2-choropleth-maps"
 },
 {
-   "author": Mike",
+   "author": "Mike",
    "authorLink": "http://scn.sap.com/people/mike.howles4",
    "date": "2014-12-31",
    "filterValue": "explaination",
