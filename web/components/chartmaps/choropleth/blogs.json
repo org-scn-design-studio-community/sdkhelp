@@ -40,7 +40,7 @@ blogs = [
    "filterValue": "explaination",
    "icon": "sap-icon://notification-2",
    "title": "Opensource SCN Maps (Part 1)",
-   "text": "As I said at TechEd in October and in an ASUG Webinar in November on Design Studio SDK: "Maps are HARD". I still believe it to be true, for reasons already stated in those 2 sessions, but again here for SCN.",
+   "text": "As I said at TechEd in October and in an ASUG Webinar in November on Design Studio SDK: 'Maps are HARD'. I still believe it to be true, for reasons already stated in those 2 sessions, but again here for SCN.",
    "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2014/12/31/design-studio-sdk-1314--opensource-scn-maps-part-1"
 }
 ]
