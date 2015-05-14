@@ -14,13 +14,33 @@
 // when copying, copy the content between { and }, place between [ and { and separate with , character  
 blogs = [
 {
-   "author": "N/A",
-   "authorLink": "http://scn.sap.com/people/",
-   "date": "2015-4-8",
-   "filterValue": "usecase",
-   "icon": "sap-icon://post",
-   "title": "There is no community blog on this component yet...",
-   "text": "you can be the first one... link below leads to sdk community blog",
-   "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2014/12/10/scn-design-studio-sdk-development-community"
+   "author": Mike",
+   "authorLink": "http://scn.sap.com/people/mike.howles4",
+   "date": "2015-2-7",
+   "filterValue": "explaination",
+   "icon": "sap-icon://notification-2",
+   "title": "How to create home-made map files for Choropleth Maps",
+   "text": "I have a data set for China at a province/regional level which is not provided out of the box in the Open Source Choropleth Map Component.  I want to create the necessary file that can be used by this component though.",
+   "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2015/02/07/guide-to-creating-geojson-and-topojson-map-files"
+},
+{
+   "author": Mike",
+   "authorLink": "http://scn.sap.com/people/mike.howles4",
+   "date": "2015-2-13",
+   "filterValue": "explaination",
+   "icon": "sap-icon://notification-2",
+   "title": "Open Source Maps (Part 2) Choropleth Maps",
+   "text": "I continue to be a bigger and bigger fan of Mike Bostock and his D3 and Topojson examples.  Topojson works with DS to project map data onto an SVG or Canvas component (English: It draws vector maps.)  The format of this data is a latitude-longitude JSON format that is an extension of an already popular GeoJSON format. ",
+   "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2015/02/13/design-studio-sdk-1314--open-source-maps-part-2-choropleth-maps"
+},
+{
+   "author": Mike",
+   "authorLink": "http://scn.sap.com/people/mike.howles4",
+   "date": "2014-12-31",
+   "filterValue": "explaination",
+   "icon": "sap-icon://notification-2",
+   "title": "Opensource SCN Maps (Part 1)",
+   "text": "As I said at TechEd in October and in an ASUG Webinar in November on Design Studio SDK: 'Maps are HARD'. I still believe it to be true, for reasons already stated in those 2 sessions, but again here for SCN.",
+   "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2014/12/31/design-studio-sdk-1314--opensource-scn-maps-part-1"
 }
 ]
