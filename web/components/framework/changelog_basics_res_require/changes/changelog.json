@@ -25,6 +25,21 @@
 changeLog = [
 {
    "author": "Karol",
+   "changes": [{
+      "change": "Resource res - require loader.js",
+      "status": "untested"
+   }],
+   "date": "2015-5-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "all affected components working again",
+   "test-icon": "sap-icon://notification",
+   "test-status": "ok",
+   "text": "Renaming access paths to some OS libraries as of additional check in 1.5 release for 'd3' and 'require' in the path. Changes: Resource res - require loader.js;",
+   "title": "OS access changed. There were 1 changes in the component."
+}, 
+{
+   "author": "Karol",
    "changes": [
       {
          "change": "Resource def - contribution.xml",

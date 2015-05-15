@@ -25,6 +25,21 @@
 changeLog = [
 {
    "author": "Karol",
+   "changes": [{
+      "change": "Resource res - common databound.js",
+      "status": "untested"
+   }],
+   "date": "2015-5-13",
+   "filterValue": "enhancement",
+   "icon": "sap-icon://badge",
+   "test-comment": "flatten method - first changes to be compatible also with selection data, not yet ready but regression free.",
+   "test-icon": "sap-icon://notification",
+   "test-status": "ok",
+   "text": "Changes: Resource res - common databound.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "Karol",
    "changes": [
       {
          "change": "Resource def - contribution.xml",

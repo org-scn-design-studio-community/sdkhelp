@@ -25,6 +25,31 @@
 changeLog = [
 {
    "author": "Karol",
+   "changes": [
+      {
+         "change": "Resource NiceChart - NiceChart.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource NiceChart - NiceChart.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-5-13",
+   "filterValue": "enhancement",
+   "icon": "sap-icon://badge",
+   "test-comment": "New Chart type is available.",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource NiceChart - NiceChart.css;Resource NiceChart - NiceChart.js;Resource def - contribution.xml;",
+   "title": "New CHart Type, Combination BarLine - every second measure is line. There were 3 changes in the component."
+}, 
+{
+   "author": "Karol",
    "changes": [{
       "change": "Resource NiceChart - NiceChart.js",
       "status": "untested"

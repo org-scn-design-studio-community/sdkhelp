@@ -25,24 +25,13 @@
 changeLog = [
 {
    "author": "n/a",
-   "changes": [{
-      "change": "Resource def - contribution.xml",
-      "status": "untested"
-   }],
-   "date": "2015-5-13",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource def - contribution.xml;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "author": "n/a",
    "changes": [
       {
-         "change": "Resource KpiView - KpiView.js",
+         "change": "Property dataset",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletChart - BulletChart.js",
          "status": "untested"
       },
       {
@@ -56,32 +45,17 @@ changeLog = [
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource KpiView - KpiView.js;Resource def - contribution.xml;",
-   "title": "There were 2 changes in the component."
+   "text": "Changes: Property dataset;Resource BulletChart - BulletChart.js;Resource def - contribution.xml;",
+   "title": "There were 3 changes in the component."
 }, 
 {
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource KpiView - KpiView.js",
-      "status": "untested"
-   }],
-   "date": "2015-4-17",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "ok",
-   "text": "Changes: Resource KpiView - KpiView.js;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "date":"2015-4-7",
+   "date":"2015-5-13",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]
