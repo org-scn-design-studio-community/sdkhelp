@@ -39,21 +39,6 @@ changeLog = [
    "title": "Every Version will get also now ne date in requrie calls. There were 1 changes in the component."
 }, 
 {
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource res - require loader.js",
-      "status": "untested"
-   }],
-   "date": "2015-5-15",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource res - require loader.js;",
-   "title": "There were 1 changes in the component."
-}, 
-{
    "author": "Karol",
    "changes": [{
       "change": "Resource res - require loader.js",
