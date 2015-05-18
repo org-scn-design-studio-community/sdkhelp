@@ -44,7 +44,7 @@ changeLog = [
    "icon": "sap-icon://badge",
    "test-comment": "New Chart type is available.",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource NiceChart - NiceChart.css;Resource NiceChart - NiceChart.js;Resource def - contribution.xml;",
    "title": "New CHart Type, Combination BarLine - every second measure is line. There were 3 changes in the component."
 }, 
