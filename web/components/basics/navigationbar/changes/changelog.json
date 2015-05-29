@@ -27,6 +27,31 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource NavigationBar - NavigationBar.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function resetItemSelection",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-5-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource NavigationBar - NavigationBar.js;Resource def - contribution.ztl;New Ztl Function resetItemSelection;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property DSelectedText",
          "status": "untested"
       },

@@ -24,6 +24,63 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.ztl",
+      "status": "untested"
+   }],
+   "date": "2015-5-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function returnAsScnBulletChartGen",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-5-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;New Ztl Function returnAsScnBulletChartGen;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function returnAsScnTagcloud",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-5-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;New Ztl Function returnAsScnTagcloud;",
+   "title": "There were 2 changes in the component."
+}, 
+{
    "author": "Karol",
    "changes": [
       {
