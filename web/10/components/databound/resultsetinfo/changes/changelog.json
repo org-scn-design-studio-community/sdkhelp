@@ -1,0 +1,88 @@
+// small in-place help
+
+// CHANGE AREA
+// author:       the author, n/a initially, the developer can add his name
+// date:         the date when the chnage was made (generated)
+// title:        change title, initially generated but can be adjusted (probably by the developer)
+// text:         a longer text, initially it is listing all areas of the change, can be also adjusted (probably by the developer)
+// filterValue:  helps on filtering, should be one of 
+//               bugfix     | enhancement      | improvement
+//               Try to be in sync with issues under https://github.com/org-scn-design-studio-community/sdkpackage/issues
+// icon:         should correspond to the filterValue, should be one of
+//               flag       | badge            | bookmark
+
+// TEST AREA
+// test-comment: any comment on the test scenario, you can also refer to some blog or others
+// test-status:  the status, initially it is set to untested - this results in "yellow". change to:
+//               good or ok: when test is positive (small case)
+//               bad: when the test is negative (small case)
+// 
+// test-icon:    icon corresponding to the status, change for    
+//               flag - when status is bad
+//               accept - when status is good  
+
+
+changeLog = [
+{
+   "author": "Karol",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDataInfoNumberOfCells",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDataInfoNumberOfDataColumns",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDataInfoNumberOfHeaderColumns",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDataInfoNumberOfRows",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-4-29",
+   "filterValue": "enhancement",
+   "icon": "sap-icon://badge",
+   "test-comment": "now results can be shown or ignore in the component",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "This new property allows to switch result on or off",
+   "title": "Introduced property 'IgnoreResults'."
+},
+{
+   "author": "Karol",
+   "changes": [{
+      "change": "Resource ResultSetInfo - ResultSetInfo.js",
+      "status": "untested"
+   }],
+   "date": "2015-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "checked - rendering also working when no data is assigned, columns are rerendered",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "(1) The component is now handling dummy data set correctly.",
+   "title": "(1) Fix for work with dummy data set (when no data is assigned)"
+}, 
+{
+   "date":"2015-4-7",
+   "title":"Start of Change Log",
+   "text":"Change Log has been started today, all changes in the component are now in the log",
+   "author":"n/a",
+   "icon":"sap-icon://notes",
+   "filterValue":"creation",
+   "test-status":"ok",
+   "test-comment":"Initial component status placement"
+}
+]
