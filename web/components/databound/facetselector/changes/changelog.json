@@ -24,6 +24,43 @@
 
 changeLog = [
 {
+   "author": "Karol",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Resource FacetSelector - FacetSelector.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource FacetSelector - FacetSelector.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource FacetSelector - FacetSelectorSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-6-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "Changes: Component Title;Resource FacetSelector - FacetSelector.css;Resource FacetSelector - FacetSelector.js;Resource FacetSelector - FacetSelectorSpec.js;Resource def - contribution.xml;Resource spec - component.json;",
+   "title": "There were 6 changes in the component."
+}, 
+{
    "date":"2015-6-18",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
