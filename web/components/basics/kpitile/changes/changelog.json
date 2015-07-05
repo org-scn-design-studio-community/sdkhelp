@@ -1,0 +1,646 @@
+// small in-place help
+
+// CHANGE AREA
+// author:       the author, n/a initially, the developer can add his name
+// date:         the date when the chnage was made (generated)
+// title:        change title, initially generated but can be adjusted (probably by the developer)
+// text:         a longer text, initially it is listing all areas of the change, can be also adjusted (probably by the developer)
+// filterValue:  helps on filtering, should be one of 
+//               bugfix     | enhancement      | improvement
+//               Try to be in sync with issues under https://github.com/org-scn-design-studio-community/sdkpackage/issues
+// icon:         should correspond to the filterValue, should be one of
+//               flag       | badge            | bookmark
+
+// TEST AREA
+// test-comment: any comment on the test scenario, you can also refer to some blog or others
+// test-status:  the status, initially it is set to untested - this results in "yellow". change to:
+//               good or ok: when test is positive (small case)
+//               bad: when the test is negative (small case)
+// 
+// test-icon:    icon corresponding to the status, change for    
+//               flag - when status is bad
+//               accept - when status is good  
+
+
+changeLog = [
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource KpiTile - KpiTile.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-5",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentComponentType",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentComponentTypes",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentSpecification",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentSpecifications",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;New Ztl Function setComponentComponentType;New Ztl Function setComponentComponentTypes;New Ztl Function setComponentSpecification;New Ztl Function setComponentSpecifications;",
+   "title": "There were 7 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentBottom",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentBottoms",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentHeights",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentLeft",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentLefts",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentRight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentRights",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentTop",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentTops",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setComponentWidths",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPropertyValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPropertyValues",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;New Ztl Function setComponentBottom;New Ztl Function setComponentBottoms;New Ztl Function setComponentHeight;New Ztl Function setComponentHeights;New Ztl Function setComponentLeft;New Ztl Function setComponentLefts;New Ztl Function setComponentRight;New Ztl Function setComponentRights;New Ztl Function setComponentTop;New Ztl Function setComponentTops;New Ztl Function setComponentValue;New Ztl Function setComponentValues;New Ztl Function setComponentWidth;New Ztl Function setComponentWidths;New Ztl Function setPropertyValue;New Ztl Function setPropertyValues;",
+   "title": "There were 20 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileLoader.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileLoader.js;Resource KpiTile - KpiTileSpec.js;Resource spec - component.json;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setFullSpecForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setFullSpecForComponentKeys",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;New Ztl Function setFullSpecForComponentKey;New Ztl Function setFullSpecForComponentKeys;",
+   "title": "There were 5 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function setBottomForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setBottomForComponentKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHeightForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHeightForComponentKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLeftForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLeftForComponentKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setRightForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setRightForComponentKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setTopForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setTopForComponentKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setWidthForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setWidthForComponentKeys",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function setBottomForComponentKey;New Ztl Function setBottomForComponentKeys;New Ztl Function setHeightForComponentKey;New Ztl Function setHeightForComponentKeys;New Ztl Function setLeftForComponentKey;New Ztl Function setLeftForComponentKeys;New Ztl Function setRightForComponentKey;New Ztl Function setRightForComponentKeys;New Ztl Function setTopForComponentKey;New Ztl Function setTopForComponentKeys;New Ztl Function setWidthForComponentKey;New Ztl Function setWidthForComponentKeys;",
+   "title": "There were 12 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function setValueForComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValueForComponentKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValueForPropertyKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValueForPropertyKeys",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function setValueForComponentKey;New Ztl Function setValueForComponentKeys;New Ztl Function setValueForPropertyKey;New Ztl Function setValueForPropertyKeys;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function setHorizontalComponentForKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHorizontalComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSizeComponentForKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSizeComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValueComponentForKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValueComponentKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValuePropertyForKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValuePropertyKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setVerticalComponentForKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setVerticalComponentKey",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function setHorizontalComponentForKeys;New Ztl Function setHorizontalComponentKey;New Ztl Function setSizeComponentForKeys;New Ztl Function setSizeComponentKey;New Ztl Function setValueComponentForKeys;New Ztl Function setValueComponentKey;New Ztl Function setValuePropertyForKeys;New Ztl Function setValuePropertyKey;New Ztl Function setVerticalComponentForKeys;New Ztl Function setVerticalComponentKey;",
+   "title": "There were 10 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addProperty",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function removeComponent",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeProperty",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;New Ztl Function addProperty;Ztl Function removeComponent;New Ztl Function removeProperty;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addComponent",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTileLoader.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTileLoader.js;Resource KpiTile - KpiTileSpec.js;Resource spec - component.json;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource KpiTile - KpiTile.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Resource KpiTile - KpiTile.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTileSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - about.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Resource KpiTile - KpiTile.css;Resource KpiTile - KpiTileSpec.js;Resource spec - about.json;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "date":"2015-7-3",
+   "title":"Start of Change Log",
+   "text":"Change Log has been started today, all changes in the component are now in the log",
+   "author":"n/a",
+   "icon":"sap-icon://notes",
+   "filterValue":"creation",
+   "test-status":"untested",
+   "test-comment":"Initial component status placement"
+}
+]
