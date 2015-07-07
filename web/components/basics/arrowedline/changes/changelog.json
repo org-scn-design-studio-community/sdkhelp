@@ -1,0 +1,259 @@
+// small in-place help
+
+// CHANGE AREA
+// author:       the author, n/a initially, the developer can add his name
+// date:         the date when the chnage was made (generated)
+// title:        change title, initially generated but can be adjusted (probably by the developer)
+// text:         a longer text, initially it is listing all areas of the change, can be also adjusted (probably by the developer)
+// filterValue:  helps on filtering, should be one of 
+//               bugfix     | enhancement      | improvement
+//               Try to be in sync with issues under https://github.com/org-scn-design-studio-community/sdkpackage/issues
+// icon:         should correspond to the filterValue, should be one of
+//               flag       | badge            | bookmark
+
+// TEST AREA
+// test-comment: any comment on the test scenario, you can also refer to some blog or others
+// test-status:  the status, initially it is set to untested - this results in "yellow". change to:
+//               good or ok: when test is positive (small case)
+//               bad: when the test is negative (small case)
+// 
+// test-icon:    icon corresponding to the status, change for    
+//               flag - when status is bad
+//               accept - when status is good  
+
+
+changeLog = [
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Property lineColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - custom.html",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getArrowPos",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getLineSize",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLineType",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setArrowPos",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setLineColor",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setLineSize",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLineType",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;Property lineColor;New Resource def - contribution.xml;New Resource def - contribution.ztl;New Resource def - custom.html;New Ztl Function getArrowPos;Ztl Function getLineSize;New Ztl Function getLineType;New Ztl Function setArrowPos;Ztl Function setLineColor;Ztl Function setLineSize;New Ztl Function setLineType;",
+   "title": "There were 12 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getLineSize",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setLineColor",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setLineSize",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;Ztl Function getLineSize;Ztl Function setLineColor;Ztl Function setLineSize;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Property lineColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource ArrowedLine - ArrowedLineLoader.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource ArrowedLine - ArrowedLineSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - ArrowedLine.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - about.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - component.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getArrowPosAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLineTypeAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isVisible",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setArrowPosByString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLineTypeByString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setVisible",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;Property lineColor;New Resource ArrowedLine - ArrowedLineLoader.js;New Resource ArrowedLine - ArrowedLineSpec.js;New Resource spec - ArrowedLine.js;New Resource spec - about.json;New Resource spec - component.json;New Resource spec - contribution.ztl;New Resource spec - specification.json;New Ztl Function getArrowPosAsString;New Ztl Function getLineTypeAsString;New Ztl Function isVisible;New Ztl Function setArrowPosByString;New Ztl Function setLineTypeByString;New Ztl Function setVisible;",
+   "title": "There were 15 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource ArrowedLine - make.spec",
+      "status": "untested"
+   }],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ArrowedLine - make.spec;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource ArrowedLine - make.spec",
+      "status": "untested"
+   }],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ArrowedLine - make.spec;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource ArrowedLine - make.spec",
+      "status": "untested"
+   }],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ArrowedLine - make.spec;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Resource ArrowedLine - make.spec",
+      "status": "untested"
+   }],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Resource ArrowedLine - make.spec;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "date":"2015-6-22",
+   "title":"Start of Change Log",
+   "text":"Change Log has been started today, all changes in the component are now in the log",
+   "author":"n/a",
+   "icon":"sap-icon://notes",
+   "filterValue":"creation",
+   "test-status":"untested",
+   "test-comment":"Initial component status placement"
+}
+]

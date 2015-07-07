@@ -24,6 +24,43 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Ztl Function setContentMode",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setDisplayText",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setSecondValueContent",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setSortingDirection",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setSortingType",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setZeroValuesMode",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Ztl Function setContentMode;Ztl Function setDisplayText;Ztl Function setSecondValueContent;Ztl Function setSortingDirection;Ztl Function setSortingType;Ztl Function setZeroValuesMode;",
+   "title": "There were 6 changes in the component."
+}, 
+{
    "author": "Karol",
    "changes": [
       {
