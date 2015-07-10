@@ -1,0 +1,819 @@
+// small in-place help
+
+// CHANGE AREA
+// author:       the author, n/a initially, the developer can add his name
+// date:         the date when the chnage was made (generated)
+// title:        change title, initially generated but can be adjusted (probably by the developer)
+// text:         a longer text, initially it is listing all areas of the change, can be also adjusted (probably by the developer)
+// filterValue:  helps on filtering, should be one of 
+//               bugfix     | enhancement      | improvement
+//               Try to be in sync with issues under https://github.com/org-scn-design-studio-community/sdkpackage/issues
+// icon:         should correspond to the filterValue, should be one of
+//               flag       | badge            | bookmark
+
+// TEST AREA
+// test-comment: any comment on the test scenario, you can also refer to some blog or others
+// test-status:  the status, initially it is set to untested - this results in "yellow". change to:
+//               good or ok: when test is positive (small case)
+//               bad: when the test is negative (small case)
+// 
+// test-icon:    icon corresponding to the status, change for    
+//               flag - when status is bad
+//               accept - when status is good  
+
+
+changeLog = [
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property actual",
+         "status": "untested"
+      },
+      {
+         "change": "New Property actualValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Property contentWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Property deltaValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Property forecastValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property maxValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property minValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property mode",
+         "status": "untested"
+      },
+      {
+         "change": "New Property scale",
+         "status": "untested"
+      },
+      {
+         "change": "New Property scaleColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showActualValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showDeltaValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showTargetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showValueMarker",
+         "status": "untested"
+      },
+      {
+         "change": "New Property size",
+         "status": "untested"
+      },
+      {
+         "change": "New Property targetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property targetValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Property threshold",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property actual;New Property actualValueLabel;New Property contentWidth;New Property deltaValueLabel;New Property forecastValue;New Property maxValue;New Property minValue;New Property mode;New Property scale;New Property scaleColor;New Property showActualValue;New Property showDeltaValue;New Property showTargetValue;New Property showValueMarker;New Property size;New Property targetValue;New Property targetValueLabel;New Property threshold;Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
+   "title": "There were 20 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property smallTest",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSmallTest",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSmallTest",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property smallTest;Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - specification.json;New Ztl Function getSmallTest;New Ztl Function setSmallTest;",
+   "title": "There were 5 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property scaleColor",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property scaleColor;Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+      "status": "untested"
+   }],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property scaleColot",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property scaleColot;Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property scaleColour",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property scaleColour;Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChart.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource BulletMicroChart - BulletMicroChart.png",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChart.js;New Resource BulletMicroChart - BulletMicroChart.png;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Property contentWidth",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Property contentWidth;Resource BulletMicroChart - BulletMicroChartSpec.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property threshold",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addThreshold",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getThresholdAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getThresholdsAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function hasThresholdColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertThreshold",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeThreshold",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setThresholdColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setThresholdColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateThreshold",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property threshold;Resource BulletMicroChart - BulletMicroChartSpec.js;New Ztl Function addThreshold;New Ztl Function getThresholdAtIndex;New Ztl Function getThresholdsAsJSON;New Ztl Function hasThresholdColor;New Ztl Function insertThreshold;New Ztl Function removeThreshold;New Ztl Function setThresholdColor;New Ztl Function setThresholdColors;New Ztl Function updateThreshold;",
+   "title": "There were 11 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function clearActual",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getActual",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setActual",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;New Ztl Function clearActual;New Ztl Function getActual;New Ztl Function setActual;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property actual",
+         "status": "untested"
+      },
+      {
+         "change": "New Property actualValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Property contentWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Property deltaValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Property forecastValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property maxValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property minValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property mode",
+         "status": "untested"
+      },
+      {
+         "change": "New Property scale",
+         "status": "untested"
+      },
+      {
+         "change": "New Property scaleColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showActualValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showDeltaValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showTargetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property showValueMarker",
+         "status": "untested"
+      },
+      {
+         "change": "New Property size",
+         "status": "untested"
+      },
+      {
+         "change": "New Property targetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Property targetValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Property thresholds",
+         "status": "untested"
+      },
+      {
+         "change": "Resource BulletMicroChart - BulletMicroChartSpec.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addActual",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addThresholds",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getActualAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getActualValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getActualsAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getContentWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDeltaValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getForecastValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getMaxValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getMinValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getMode",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getModeAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getScale",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getScaleColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getScaleColorAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSize",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSizeAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getTargetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getTargetValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getThresholdsAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getThresholdssAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function hasActualColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function hasThresholdsColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertActual",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertThresholds",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isShowActualValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isShowDeltaValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isShowTargetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isShowValueMarker",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeActual",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeThresholds",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setActualColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setActualColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setActualValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setContentWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDeltaValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setForecastValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setMaxValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setMinValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setMode",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setModeByString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setScale",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setScaleColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setScaleColorByString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setShowActualValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setShowDeltaValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setShowTargetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setShowValueMarker",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSize",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSizeByString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setTargetValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setTargetValueLabel",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setThresholdsColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setThresholdsColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateActual",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateThresholds",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property actual;New Property actualValueLabel;New Property contentWidth;New Property deltaValueLabel;New Property forecastValue;New Property maxValue;New Property minValue;New Property mode;New Property scale;New Property scaleColor;New Property showActualValue;New Property showDeltaValue;New Property showTargetValue;New Property showValueMarker;New Property size;New Property targetValue;New Property targetValueLabel;New Property thresholds;Resource BulletMicroChart - BulletMicroChartSpec.js;New Ztl Function addActual;New Ztl Function addThresholds;New Ztl Function getActualAtIndex;New Ztl Function getActualValueLabel;New Ztl Function getActualsAsJSON;New Ztl Function getContentWidth;New Ztl Function getDeltaValueLabel;New Ztl Function getForecastValue;New Ztl Function getMaxValue;New Ztl Function getMinValue;New Ztl Function getMode;New Ztl Function getModeAsString;New Ztl Function getScale;New Ztl Function getScaleColor;New Ztl Function getScaleColorAsString;New Ztl Function getSize;New Ztl Function getSizeAsString;New Ztl Function getTargetValue;New Ztl Function getTargetValueLabel;New Ztl Function getThresholdsAtIndex;New Ztl Function getThresholdssAsJSON;New Ztl Function hasActualColor;New Ztl Function hasThresholdsColor;New Ztl Function insertActual;New Ztl Function insertThresholds;New Ztl Function isShowActualValue;New Ztl Function isShowDeltaValue;New Ztl Function isShowTargetValue;New Ztl Function isShowValueMarker;New Ztl Function removeActual;New Ztl Function removeThresholds;New Ztl Function setActualColor;New Ztl Function setActualColors;New Ztl Function setActualValueLabel;New Ztl Function setContentWidth;New Ztl Function setDeltaValueLabel;New Ztl Function setForecastValue;New Ztl Function setMaxValue;New Ztl Function setMinValue;New Ztl Function setMode;New Ztl Function setModeByString;New Ztl Function setScale;New Ztl Function setScaleColor;New Ztl Function setScaleColorByString;New Ztl Function setShowActualValue;New Ztl Function setShowDeltaValue;New Ztl Function setShowTargetValue;New Ztl Function setShowValueMarker;New Ztl Function setSize;New Ztl Function setSizeByString;New Ztl Function setTargetValue;New Ztl Function setTargetValueLabel;New Ztl Function setThresholdsColor;New Ztl Function setThresholdsColors;New Ztl Function updateActual;New Ztl Function updateThresholds;",
+   "title": "There were 75 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Resource BulletMicroChart - BulletMicroChart.css",
+      "status": "untested"
+   }],
+   "date": "2015-7-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Resource BulletMicroChart - BulletMicroChart.css;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "date":"2015-7-9",
+   "title":"Start of Change Log",
+   "text":"Change Log has been started today, all changes in the component are now in the log",
+   "author":"n/a",
+   "icon":"sap-icon://notes",
+   "filterValue":"creation",
+   "test-status":"untested",
+   "test-comment":"Initial component status placement"
+}
+]
