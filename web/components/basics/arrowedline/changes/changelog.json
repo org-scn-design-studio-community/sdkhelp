@@ -80,7 +80,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Component Title;Property lineColor;New Resource def - contribution.xml;New Resource def - contribution.ztl;New Resource def - custom.html;New Ztl Function getArrowPos;Ztl Function getLineSize;New Ztl Function getLineType;New Ztl Function setArrowPos;Ztl Function setLineColor;Ztl Function setLineSize;New Ztl Function setLineType;",
    "title": "There were 12 changes in the component."
 }, 
@@ -109,7 +109,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource spec - contribution.ztl;Ztl Function getLineSize;Ztl Function setLineColor;Ztl Function setLineSize;",
    "title": "There were 4 changes in the component."
 }, 
@@ -182,7 +182,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Component Title;Property lineColor;New Resource ArrowedLine - ArrowedLineLoader.js;New Resource ArrowedLine - ArrowedLineSpec.js;New Resource spec - ArrowedLine.js;New Resource spec - about.json;New Resource spec - component.json;New Resource spec - contribution.ztl;New Resource spec - specification.json;New Ztl Function getArrowPosAsString;New Ztl Function getLineTypeAsString;New Ztl Function isVisible;New Ztl Function setArrowPosByString;New Ztl Function setLineTypeByString;New Ztl Function setVisible;",
    "title": "There were 15 changes in the component."
 }, 
@@ -197,7 +197,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource ArrowedLine - make.spec;",
    "title": "There were 1 changes in the component."
 }, 
@@ -212,7 +212,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource ArrowedLine - make.spec;",
    "title": "There were 1 changes in the component."
 }, 
@@ -227,7 +227,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource ArrowedLine - make.spec;",
    "title": "There were 1 changes in the component."
 }, 
@@ -242,7 +242,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Resource ArrowedLine - make.spec;",
    "title": "There were 1 changes in the component."
 }, 

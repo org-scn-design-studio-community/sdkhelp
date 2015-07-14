@@ -34,7 +34,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -49,7 +49,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -64,7 +64,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -79,7 +79,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -172,7 +172,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property actual;New Property actualValueLabel;New Property contentWidth;New Property deltaValueLabel;New Property forecastValue;New Property maxValue;New Property minValue;New Property mode;New Property scale;New Property scaleColor;New Property showActualValue;New Property showDeltaValue;New Property showTargetValue;New Property showValueMarker;New Property size;New Property targetValue;New Property targetValueLabel;New Property threshold;Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
    "title": "There were 20 changes in the component."
 }, 
@@ -193,7 +193,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
    "title": "There were 2 changes in the component."
 }, 
@@ -226,7 +226,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property smallTest;Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - specification.json;New Ztl Function getSmallTest;New Ztl Function setSmallTest;",
    "title": "There were 5 changes in the component."
 }, 
@@ -247,7 +247,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property scaleColor;Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 2 changes in the component."
 }, 
@@ -262,7 +262,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -283,7 +283,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property scaleColot;Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 2 changes in the component."
 }, 
@@ -304,7 +304,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property scaleColour;Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 2 changes in the component."
 }, 
@@ -325,7 +325,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChart.js;New Resource BulletMicroChart - BulletMicroChart.png;",
    "title": "There were 2 changes in the component."
 }, 
@@ -346,7 +346,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Property contentWidth;Resource BulletMicroChart - BulletMicroChartSpec.js;",
    "title": "There were 2 changes in the component."
 }, 
@@ -403,7 +403,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property threshold;Resource BulletMicroChart - BulletMicroChartSpec.js;New Ztl Function addThreshold;New Ztl Function getThresholdAtIndex;New Ztl Function getThresholdsAsJSON;New Ztl Function hasThresholdColor;New Ztl Function insertThreshold;New Ztl Function removeThreshold;New Ztl Function setThresholdColor;New Ztl Function setThresholdColors;New Ztl Function updateThreshold;",
    "title": "There were 11 changes in the component."
 }, 
@@ -432,7 +432,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;New Ztl Function clearActual;New Ztl Function getActual;New Ztl Function setActual;",
    "title": "There were 4 changes in the component."
 }, 
@@ -453,7 +453,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
    "title": "There were 2 changes in the component."
 }, 
@@ -474,7 +474,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletMicroChart - BulletMicroChartSpec.js;Resource spec - component.json;",
    "title": "There were 2 changes in the component."
 }, 
@@ -787,7 +787,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property actual;New Property actualValueLabel;New Property contentWidth;New Property deltaValueLabel;New Property forecastValue;New Property maxValue;New Property minValue;New Property mode;New Property scale;New Property scaleColor;New Property showActualValue;New Property showDeltaValue;New Property showTargetValue;New Property showValueMarker;New Property size;New Property targetValue;New Property targetValueLabel;New Property thresholds;Resource BulletMicroChart - BulletMicroChartSpec.js;New Ztl Function addActual;New Ztl Function addThresholds;New Ztl Function getActualAtIndex;New Ztl Function getActualValueLabel;New Ztl Function getActualsAsJSON;New Ztl Function getContentWidth;New Ztl Function getDeltaValueLabel;New Ztl Function getForecastValue;New Ztl Function getMaxValue;New Ztl Function getMinValue;New Ztl Function getMode;New Ztl Function getModeAsString;New Ztl Function getScale;New Ztl Function getScaleColor;New Ztl Function getScaleColorAsString;New Ztl Function getSize;New Ztl Function getSizeAsString;New Ztl Function getTargetValue;New Ztl Function getTargetValueLabel;New Ztl Function getThresholdsAtIndex;New Ztl Function getThresholdssAsJSON;New Ztl Function hasActualColor;New Ztl Function hasThresholdsColor;New Ztl Function insertActual;New Ztl Function insertThresholds;New Ztl Function isShowActualValue;New Ztl Function isShowDeltaValue;New Ztl Function isShowTargetValue;New Ztl Function isShowValueMarker;New Ztl Function removeActual;New Ztl Function removeThresholds;New Ztl Function setActualColor;New Ztl Function setActualColors;New Ztl Function setActualValueLabel;New Ztl Function setContentWidth;New Ztl Function setDeltaValueLabel;New Ztl Function setForecastValue;New Ztl Function setMaxValue;New Ztl Function setMinValue;New Ztl Function setMode;New Ztl Function setModeByString;New Ztl Function setScale;New Ztl Function setScaleColor;New Ztl Function setScaleColorByString;New Ztl Function setShowActualValue;New Ztl Function setShowDeltaValue;New Ztl Function setShowTargetValue;New Ztl Function setShowValueMarker;New Ztl Function setSize;New Ztl Function setSizeByString;New Ztl Function setTargetValue;New Ztl Function setTargetValueLabel;New Ztl Function setThresholdsColor;New Ztl Function setThresholdsColors;New Ztl Function updateActual;New Ztl Function updateThresholds;",
    "title": "There were 75 changes in the component."
 }, 
@@ -802,7 +802,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Resource BulletMicroChart - BulletMicroChart.css;",
    "title": "There were 1 changes in the component."
 }, 

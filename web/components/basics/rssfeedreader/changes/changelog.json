@@ -48,7 +48,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource RSSFeedReader - RSSContainerForIFrame.html;Resource RSSFeedReader - RSSFeedReader.js;Resource RSSFeedReader - RSSFeedReaderSpec.js;Resource spec - specification.json;",
    "title": "There were 4 changes in the component."
 }, 

@@ -34,7 +34,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Ztl Function setShowalert;",
    "title": "There were 1 changes in the component."
 }, 
@@ -49,7 +49,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -64,7 +64,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -79,7 +79,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -100,7 +100,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;Resource def - contribution.ztl;",
    "title": "There were 2 changes in the component."
 }, 
@@ -121,7 +121,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;Resource def - contribution.ztl;",
    "title": "There were 2 changes in the component."
 }, 
@@ -142,7 +142,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;Resource def - contribution.ztl;",
    "title": "There were 2 changes in the component."
 }, 
@@ -371,7 +371,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Property clickedgraphkey;New Property comparison;New Property data;New Property extrapolation;New Property keydimension;New Property labeldimension;New Property maxgraphheight;New Property mingraphheight;New Property realization;New Property showalert;New Property showaxis;New Property sublabeldimension;New Property threshold1;New Property threshold2;New Property threshold3;New Property threshold4;New Property threshold5;Resource BulletChartGen - BulletChartGenSpec.js;Resource def - contribution.xml;Resource def - contribution.ztl;Resource spec - about.json;Resource spec - specification.json;New Ztl Function getClickedgraphkey;New Ztl Function getComparison;New Ztl Function getExtrapolation;New Ztl Function getKeydimension;New Ztl Function getLabeldimension;New Ztl Function getMaxgraphheight;New Ztl Function getMingraphheight;New Ztl Function getRealization;New Ztl Function getShowalert;New Ztl Function getSublabeldimension;New Ztl Function getThreshold1;New Ztl Function getThreshold2;New Ztl Function getThreshold3;New Ztl Function getThreshold4;New Ztl Function getThreshold5;New Ztl Function isShowaxis;New Ztl Function setClickedgraphkey;New Ztl Function setComparison;New Ztl Function setExtrapolation;New Ztl Function setKeydimension;New Ztl Function setLabeldimension;New Ztl Function setMaxgraphheight;New Ztl Function setMingraphheight;New Ztl Function setRealization;New Ztl Function setShowalert;New Ztl Function setShowaxis;New Ztl Function setSublabeldimension;New Ztl Function setThreshold1;New Ztl Function setThreshold2;New Ztl Function setThreshold3;New Ztl Function setThreshold4;New Ztl Function setThreshold5;",
    "title": "There were 54 changes in the component."
 }, 
@@ -386,7 +386,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -401,7 +401,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -426,7 +426,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource BulletChartGen - BulletChartGenSpec.js;Resource def - contribution.xml;Resource spec - component.json;",
    "title": "There were 3 changes in the component."
 }, 
@@ -459,7 +459,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Resource BulletChartGen - BulletChartGen.css;Resource BulletChartGen - BulletChartGen.js;Resource BulletChartGen - BulletChartGenLoader.js;Resource BulletChartGen - BulletChartGenSpec.js;Resource spec - component.json;",
    "title": "There were 5 changes in the component."
 }, 

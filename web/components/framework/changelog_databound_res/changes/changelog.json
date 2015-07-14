@@ -48,7 +48,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource res - org.scn.community.aps.PropertyPage.html;Resource res - org.scn.community.aps.PropertyPage.js;Resource res - org.scn.community.component.Core.js;Resource res - org.scn.community.component.Databound.js;",
    "title": "There were 4 changes in the component."
 }, 

@@ -34,7 +34,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Ztl Function setComboboxExample;",
    "title": "There were 1 changes in the component."
 }, 
@@ -49,7 +49,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -64,7 +64,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -79,7 +79,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;",
    "title": "There were 1 changes in the component."
 }, 
@@ -100,7 +100,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource ApsTesterUI5 - ApsTesterUI5Spec.js;Resource spec - component.json;",
    "title": "There were 2 changes in the component."
 }, 
@@ -129,7 +129,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Property colorExample;Resource def - contribution.xml;Resource def - contribution.ztl;Ztl Function getColorExample;",
    "title": "There were 4 changes in the component."
 }, 
@@ -158,7 +158,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Property colorExample;Resource def - contribution.xml;Resource def - contribution.ztl;Ztl Function getColorExample;",
    "title": "There were 4 changes in the component."
 }, 
@@ -179,7 +179,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.xml;Resource def - contribution.ztl;",
    "title": "There were 2 changes in the component."
 }, 
@@ -200,7 +200,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.ztl;Ztl Function setColorExample;",
    "title": "There were 2 changes in the component."
 }, 
@@ -233,7 +233,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Property colorExample;Resource def - contribution.xml;Resource def - contribution.ztl;Ztl Function getColorExample;Ztl Function setColorExample;",
    "title": "There were 5 changes in the component."
 }, 
