@@ -40,7 +40,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Resource TagCloud - tag.cloud.layout.js;Resource def - contribution.xml;",
    "title": "There were 2 changes in the component."
 }, 

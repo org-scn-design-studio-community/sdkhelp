@@ -60,7 +60,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.ztl;Ztl Function sortByKey;Ztl Function sortByKeyDescending;Ztl Function sortByLabel;Ztl Function sortByLabelDescending;Ztl Function sortByValue;Ztl Function sortByValueDescending;",
    "title": "There were 7 changes in the component."
 }, 

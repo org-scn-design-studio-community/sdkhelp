@@ -34,7 +34,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -49,7 +49,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -90,7 +90,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;New Ztl Function setComponentComponentType;New Ztl Function setComponentComponentTypes;New Ztl Function setComponentSpecification;New Ztl Function setComponentSpecifications;",
    "title": "There were 7 changes in the component."
 }, 
@@ -183,7 +183,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;New Ztl Function setComponentBottom;New Ztl Function setComponentBottoms;New Ztl Function setComponentHeight;New Ztl Function setComponentHeights;New Ztl Function setComponentLeft;New Ztl Function setComponentLefts;New Ztl Function setComponentRight;New Ztl Function setComponentRights;New Ztl Function setComponentTop;New Ztl Function setComponentTops;New Ztl Function setComponentValue;New Ztl Function setComponentValues;New Ztl Function setComponentWidth;New Ztl Function setComponentWidths;New Ztl Function setPropertyValue;New Ztl Function setPropertyValues;",
    "title": "There were 20 changes in the component."
 }, 
@@ -212,7 +212,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileLoader.js;Resource KpiTile - KpiTileSpec.js;Resource spec - component.json;",
    "title": "There were 4 changes in the component."
 }, 
@@ -233,7 +233,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;",
    "title": "There were 2 changes in the component."
 }, 
@@ -266,7 +266,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;New Ztl Function setFullSpecForComponentKey;New Ztl Function setFullSpecForComponentKeys;",
    "title": "There were 5 changes in the component."
 }, 
@@ -291,7 +291,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;",
    "title": "There were 3 changes in the component."
 }, 
@@ -352,7 +352,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Ztl Function setBottomForComponentKey;New Ztl Function setBottomForComponentKeys;New Ztl Function setHeightForComponentKey;New Ztl Function setHeightForComponentKeys;New Ztl Function setLeftForComponentKey;New Ztl Function setLeftForComponentKeys;New Ztl Function setRightForComponentKey;New Ztl Function setRightForComponentKeys;New Ztl Function setTopForComponentKey;New Ztl Function setTopForComponentKeys;New Ztl Function setWidthForComponentKey;New Ztl Function setWidthForComponentKeys;",
    "title": "There were 12 changes in the component."
 }, 
@@ -381,7 +381,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Ztl Function setValueForComponentKey;New Ztl Function setValueForComponentKeys;New Ztl Function setValueForPropertyKey;New Ztl Function setValueForPropertyKeys;",
    "title": "There were 4 changes in the component."
 }, 
@@ -406,7 +406,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
    "title": "There were 3 changes in the component."
 }, 
@@ -435,7 +435,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
    "title": "There were 4 changes in the component."
 }, 
@@ -488,7 +488,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Ztl Function setHorizontalComponentForKeys;New Ztl Function setHorizontalComponentKey;New Ztl Function setSizeComponentForKeys;New Ztl Function setSizeComponentKey;New Ztl Function setValueComponentForKeys;New Ztl Function setValueComponentKey;New Ztl Function setValuePropertyForKeys;New Ztl Function setValuePropertyKey;New Ztl Function setVerticalComponentForKeys;New Ztl Function setVerticalComponentKey;",
    "title": "There were 10 changes in the component."
 }, 
@@ -525,7 +525,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;New Ztl Function addProperty;Ztl Function removeComponent;New Ztl Function removeProperty;",
    "title": "There were 6 changes in the component."
 }, 
@@ -550,7 +550,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
    "title": "There were 3 changes in the component."
 }, 
@@ -579,7 +579,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;Resource KpiTile - KpiTileSpec.js;Resource spec - specification.json;Ztl Function addComponent;",
    "title": "There were 4 changes in the component."
 }, 
@@ -604,7 +604,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTileLoader.js;Resource KpiTile - KpiTileSpec.js;Resource spec - component.json;",
    "title": "There were 3 changes in the component."
 }, 
@@ -619,7 +619,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource KpiTile - KpiTile.js;",
    "title": "There were 1 changes in the component."
 }, 
@@ -644,7 +644,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: New Resource KpiTile - KpiTile.css;Resource KpiTile - KpiTileSpec.js;Resource spec - about.json;",
    "title": "There were 3 changes in the component."
 }, 

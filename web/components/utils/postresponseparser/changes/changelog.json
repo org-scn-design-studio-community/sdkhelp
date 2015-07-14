@@ -73,7 +73,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource PostResponseParser - PostResponseParser.js;Resource spec - contribution.json;",
    "title": "There were 2 changes in the component."
 }, 
@@ -88,7 +88,7 @@ changeLog = [
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
-   "test-status": "untested",
+   "test-status": "ok",
    "text": "Changes: Resource def - contribution.ztl;",
    "title": "There were 1 changes in the component."
 }, 
