@@ -24,6 +24,35 @@
 
 changeLog = [
 {
+   "author": "Karol",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addNode",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function noNodeUpdate",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllNodes",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-7-15",
+   "filterValue": "enhancement",
+   "icon": "sap-icon://badge",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "Changes: Resource spec - contribution.ztl;Ztl Function addNode;New Ztl Function noNodeUpdate;New Ztl Function removeAllNodes;",
+   "title": "Some old methods are back. There were 4 changes in the component."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
