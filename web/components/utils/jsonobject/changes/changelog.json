@@ -24,6 +24,31 @@
 
 changeLog = [
 {
+   "author": "Karol",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValueAsJsonObject",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValueAsString",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-8-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function getValueAsJsonObject;New Ztl Function getValueAsString;",
+   "title": "Adding functions for recursice read of parameters. There were 3 changes in the component."
+}, 
+{
    "author": "n/a",
    "changes": [{
       "change": "New Resource JsonObject - JsonObject.png",
