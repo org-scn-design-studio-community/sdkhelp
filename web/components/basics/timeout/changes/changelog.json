@@ -27,29 +27,81 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
-         "change": "New Property onChange",
+         "change": "New Property onTimeout",
          "status": "untested"
       },
       {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
+         "change": "New Property periodic",
          "status": "untested"
       },
       {
-         "change": "Resource def - contribution.xml",
+         "change": "New Property start",
+         "status": "untested"
+      },
+      {
+         "change": "New Property stop",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function calcTimestamp",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getStart",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getStop",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isPeriodic",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPeriodic",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setStart",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setStop",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function startTimer",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function stopTimer",
          "status": "untested"
       }
    ],
-   "date": "2015-8-26",
+   "date": "2015-9-1",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: New Property onChange;Resource MultiComboBox - MultiComboBox.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component."
+   "text": "Changes: New Property onTimeout;New Property periodic;New Property start;New Property stop;Resource spec - component.json;New Resource spec - contribution.ztl;Resource spec - specification.json;New Ztl Function calcTimestamp;New Ztl Function getStart;New Ztl Function getStop;New Ztl Function isPeriodic;New Ztl Function setPeriodic;New Ztl Function setStart;New Ztl Function setStop;New Ztl Function startTimer;New Ztl Function stopTimer;",
+   "title": "There were 16 changes in the component."
 }, 
 {
-   "date":"2015-7-8",
+   "date":"2015-8-26",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",

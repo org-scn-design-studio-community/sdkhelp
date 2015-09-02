@@ -25,6 +25,31 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function resetSelection",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function setTitles",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-9-1",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function resetSelection;Ztl Function setTitles;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource ListSelector - ListSelector.js",
       "status": "untested"

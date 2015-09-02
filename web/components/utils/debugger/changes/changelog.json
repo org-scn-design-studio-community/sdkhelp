@@ -24,6 +24,35 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function inspectJSONProperty",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function inspectNow",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function private inspect",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-8-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;New Ztl Function inspectJSONProperty;Ztl Function inspectNow;Ztl Function private inspect;",
+   "title": "There were 4 changes in the component."
+}, 
+{
    "date":"2015-4-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",

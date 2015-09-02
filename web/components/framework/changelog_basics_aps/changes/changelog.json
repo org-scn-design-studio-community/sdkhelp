@@ -25,6 +25,79 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource aps - org.scn.community.PropertyPage.div.html",
+         "status": "untested"
+      },
+      {
+         "change": "Resource aps - org.scn.community.generic.PropertyPage.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource aps - org.scn.community.generic.PropertyPage.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource aps - org.scn.community.ui5.extensions.complexcollection.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource aps - org.scn.community.ui5.extensions.complexproperty.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource aps - org.scn.community.ui5.extensions.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-9-1",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource aps - org.scn.community.PropertyPage.div.html;Resource aps - org.scn.community.generic.PropertyPage.css;Resource aps - org.scn.community.generic.PropertyPage.js;Resource aps - org.scn.community.ui5.extensions.complexcollection.js;New Resource aps - org.scn.community.ui5.extensions.complexproperty.js;Resource aps - org.scn.community.ui5.extensions.js;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource aps - org.scn.community.PropertyPage.div.html",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource aps - org.scn.community.ui5.extensions.complexcollection.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2015-8-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource aps - org.scn.community.PropertyPage.div.html;New Resource aps - org.scn.community.ui5.extensions.complexcollection.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource aps - org.scn.community.component.Core.js",
+      "status": "untested"
+   }],
+   "date": "2015-8-26",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource aps - org.scn.community.component.Core.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource aps - org.scn.community.component.Core.js",
       "status": "untested"
