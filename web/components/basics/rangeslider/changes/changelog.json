@@ -24,38 +24,13 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "New Resource RangeSlider - RangeSlider.css",
-         "status": "untested"
-      },
-      {
-         "change": "Resource RangeSlider - RangeSlider.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-4-15",
-   "filterValue": "enhancement",
-   "icon": "sap-icon://notes",
-   "test-comment": "checked vertical mode of the component",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Better text display in vertical mode. Changes: New Resource Slider - Slider.css;Resource Slider - Slider.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component. Better style for vertical usage (now texts are nto broken, 200px is reserved for texts)."
-}, 
-{
-   "date":"2015-4-7",
+   "date":"2015-12-17",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]

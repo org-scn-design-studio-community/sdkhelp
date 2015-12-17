@@ -24,28 +24,13 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource KpiView - KpiView.js",
-      "status": "untested"
-   }],
-   "date": "2015-4-17",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "ok",
-   "text": "Changes: Resource KpiView - KpiView.js;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "date":"2015-4-7",
+   "date":"2015-12-17",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]

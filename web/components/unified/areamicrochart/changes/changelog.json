@@ -24,7 +24,7 @@
 
 changeLog = [
 {
-   "date":"2015-7-15",
+   "date":"2015-12-17",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",

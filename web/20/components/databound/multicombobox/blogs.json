@@ -1,0 +1,26 @@
+// help on the content
+// author: your full name
+// authorLink: link to your profile, eg scn
+// date: the creation date in the form YYYY-M-D (no 0 please!)
+// filterValue: filtering, use one of: 
+// 	technical | help     | usecase | explaination 
+// icon: use corresponding to the filter value
+// 	sap-icon://
+// 	flag      | sys-help | post     | notification-2 
+// title: the text on top
+// text: the longer text at the bottom
+// link: the link to blog
+
+// when copying, copy the content between { and }, place between [ and { and separate with , character  
+blogs = [
+{
+   "author": "Martin Pankraz",
+   "authorLink": "http://scn.sap.com/people/martin.pankraz",
+   "date": "2015-4-8",
+   "filterValue": "usecase",
+   "icon": "sap-icon://post",
+   "title": "MultiComboBox",
+   "text": "Check link below for the blog entry:",
+   "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2015/10/15/multicombobox-variable-selections-and-how-to-load-sapm-into-your-sdk-component"
+}
+]

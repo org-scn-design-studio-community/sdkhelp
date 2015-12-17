@@ -14,13 +14,13 @@
 // when copying, copy the content between { and }, place between [ and { and separate with , character  
 blogs = [
 {
-   "author": "Karol",
-   "authorLink": "http://scn.sap.com/people/karol.kalisz",
-   "date": "2015-7-16",
-   "filterValue": "technical",
-   "icon": "sap-icon://flag",
-   "title": "Introduction",
-   "text": "introduction to the component concept for components based on SAPUI5 Explored",
-   "link": "http://scn.sap.com/docs/DOC-65196"
+   "author": "N/A",
+   "authorLink": "http://scn.sap.com/people/",
+   "date": "2015-4-8",
+   "filterValue": "usecase",
+   "icon": "sap-icon://post",
+   "title": "There is no community blog on this component yet...",
+   "text": "you can be the first one... link below leads to sdk community blog",
+   "link": "http://scn.sap.com/community/businessobjects-design-studio/blog/2014/12/10/scn-design-studio-sdk-development-community"
 }
 ]

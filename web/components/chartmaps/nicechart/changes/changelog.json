@@ -24,113 +24,13 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource def - contribution.ztl",
-      "status": "untested"
-   }],
-   "date": "2015-6-16",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Changes: Resource def - contribution.ztl;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "author": "Karol",
-   "changes": [
-      {
-         "change": "Resource NiceChart - NiceChart.css",
-         "status": "untested"
-      },
-      {
-         "change": "Resource NiceChart - NiceChart.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-5-13",
-   "filterValue": "enhancement",
-   "icon": "sap-icon://badge",
-   "test-comment": "New Chart type is available.",
-   "test-icon": "sap-icon://notification",
-   "test-status": "ok",
-   "text": "Changes: Resource NiceChart - NiceChart.css;Resource NiceChart - NiceChart.js;Resource def - contribution.xml;",
-   "title": "New CHart Type, Combination BarLine - every second measure is line. There were 3 changes in the component."
-}, 
-{
-   "author": "Karol",
-   "changes": [{
-      "change": "Resource NiceChart - NiceChart.js",
-      "status": "untested"
-   }],
-   "date": "2015-5-4",
-   "filterValue": "bugfix",
-   "icon": "sap-icon://flag",
-   "test-comment": "Test case, place component in panel or tabstrip which is set to width = auto. resize the content.",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Now, the component can be placed in containers with auto-sizes.",
-   "title": "Adjustment to Resize for auto-sized components."
-},
-{
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource NiceChart - NiceChart.js",
-      "status": "untested"
-   }],
-   "date": "2015-4-17",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "ok",
-   "text": "Changes: Resource NiceChart - NiceChart.js;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "author": "Karol",
-   "changes": [{
-      "change": "Resource NiceChart - NiceChart.js",
-      "status": "untested"
-   }],
-   "date": "2015-4-7",
-   "filterValue": "improvement",
-   "icon": "sap-icon://flag",
-   "test-comment": "checked, tooltip is now longer in the given example",
-   "test-status": "ok",
-   "test-icon": "sap-icon://accept",
-   "text": "Changes: Resource NiceChart - NiceChart.js;",
-   "title": "There were 1 changes in the component. Increasse of tooltip to 300px for longer texts."
-}, 
-{
-   "author": "Karol",
-   "changes": [{
-      "change": "Resource NiceChart - NiceChartLoader.js",
-      "status": "ok"
-   }],
-   "date": "2015-4-7",
-   "filterValue": "bugfix",
-   "icon": "sap-icon://flag",
-   "test-comment": "chart is loading correctly, reference issue is fixed",
-   "test-status": "ok",
-   "test-icon": "sap-icon://accept",
-   "text": "issue #42: js reference is incorrect after changes in the structure",
-   "title": "Fix for issue #42"
-}, 
-{
-   "date":"2015-4-7",
+   "date":"2015-12-17",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]

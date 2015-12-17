@@ -24,38 +24,13 @@
 
 changeLog = [
 {
-   "author": "Karol",
-   "changes": [
-      {
-         "change": "New Property svgMode",
-         "status": "untested"
-      },
-      {
-         "change": "Resource PdfPrint - PdfPrint.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-4-28",
-   "filterValue": "bugfix",
-   "icon": "sap-icon://badge",
-   "test-comment": "no issues any more with requrie, also new method checked on Activity Viewer",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Changes: New Property svgMode;Resource PdfPrint - PdfPrint.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component. Adding new conversion mode for SVG components (better content, but currently loosing colors). And, fix for the mismatch issue in define module."
-}, 
-{
-   "date":"2015-4-7",
+   "date":"2015-12-17",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]
