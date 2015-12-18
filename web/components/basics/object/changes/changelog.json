@@ -24,22 +24,7 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [{
-      "change": "New Resource Object - Object.css",
-      "status": "untested"
-   }],
-   "date": "2015-12-18",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Resource Object - Object.css;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "date":"2015-12-17",
+   "date":"2015-12-18",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
