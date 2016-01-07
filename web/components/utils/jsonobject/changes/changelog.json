@@ -24,53 +24,13 @@
 
 changeLog = [
 {
-   "author": "Karol",
-   "changes": [
-      {
-         "change": "Resource spec - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getValueAsJsonObject",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getValueAsString",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-8-8",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function getValueAsJsonObject;New Ztl Function getValueAsString;",
-   "title": "Adding functions for recursice read of parameters. There were 3 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [{
-      "change": "New Resource JsonObject - JsonObject.png",
-      "status": "untested"
-   }],
-   "date": "2015-4-23",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "ok",
-   "text": "Changes: New Resource JsonObject - JsonObject.png;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "date":"2015-4-23",
+   "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]

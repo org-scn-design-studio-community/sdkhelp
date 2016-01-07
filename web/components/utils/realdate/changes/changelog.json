@@ -24,100 +24,13 @@
 
 changeLog = [
 {
-   "author": "Karol",
-   "changes": [
-      {
-         "change": "Properties created at date",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function formatWithMask",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function initialize",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function internal toString",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function private checkPrototypeFormat",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function private checkPrototypeRecalculate",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-4-8",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "Adding new method for native Data formatting",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Changes: Properties created at date;Resource def - contribution.ztl;New Ztl Function formatWithMask;Ztl Function initialize;Ztl Function internal toString;New Ztl Function private checkPrototypeFormat;New Ztl Function private checkPrototypeRecalculate;",
-   "title": "There were 7 changes in the component."
-}, 
-{
-   "author": "Karol",
-   "changes": [
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function initialize",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-4-7",
-   "filterValue": "bugfix",
-   "icon": "sap-icon://flag",
-   "test-comment": "month name returns correct value now",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "calculation for month name adjusted - one index was incorrect.",
-   "title": "getMonthName() returned incorrect month"
-}, 
-{
-   "author": "Karol",
-   "changes": [
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function getDayName",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function getMonthName",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-4-7",
-   "filterValue": "bugfix",
-   "icon": "sap-icon://flag",
-   "test-comment": "both methods are now returning string",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Changes: Resource def - contribution.ztl;Ztl Function getDayName;Ztl Function getMonthName;",
-   "title": "There were 3 changes in the component. Changing return type for getMonthName() and getDayName()"
-}, 
-{
-   "date":"2015-4-7",
+   "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
+   "test-status":"untested",
    "test-comment":"Initial component status placement"
 }
 ]

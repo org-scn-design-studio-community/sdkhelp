@@ -24,32 +24,7 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "New Property onChange",
-         "status": "untested"
-      },
-      {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-8-26",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Property onChange;Resource MultiComboBox - MultiComboBox.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component."
-}, 
-{
-   "date":"2015-7-8",
+   "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",

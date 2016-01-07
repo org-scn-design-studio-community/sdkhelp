@@ -24,13 +24,13 @@
 
 changeLog = [
 {
-   "date":"2015-6-19",
+   "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
    "icon":"sap-icon://notes",
    "filterValue":"creation",
-   "test-status":"ok",
-   "test-comment":"Initial component status placement. Not ready for use yet."
+   "test-status":"untested",
+   "test-comment":"Initial component status placement"
 }
 ]

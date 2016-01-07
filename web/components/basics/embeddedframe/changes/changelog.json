@@ -24,92 +24,13 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "New Property domainrelaxlevel",
-         "status": "untested"
-      },
-      {
-         "change": "New Property skipport",
-         "status": "untested"
-      },
-      {
-         "change": "Resource spec - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "Resource spec - specification.json",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getDomainRelaxLevel",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getDomainrelaxlevel",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getSkipPort",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function isSkipport",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setDomainRelaxLevel",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setDomainrelaxlevel",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setSkipPort",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setSkipport",
-         "status": "untested"
-      }
-   ],
-   "date": "2015-9-1",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Property domainrelaxlevel;New Property skipport;Resource spec - contribution.ztl;Resource spec - specification.json;New Ztl Function getDomainRelaxLevel;New Ztl Function getDomainrelaxlevel;New Ztl Function getSkipPort;New Ztl Function isSkipport;New Ztl Function setDomainRelaxLevel;New Ztl Function setDomainrelaxlevel;New Ztl Function setSkipPort;New Ztl Function setSkipport;",
-   "title": "There were 12 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [{
-      "change": "Resource EmbeddedFrame - EmbeddedFrame.js",
-      "status": "untested"
-   }],
-   "date": "2015-8-26",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource EmbeddedFrame - EmbeddedFrame.js;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "author": "Karol",
-   "changes": [
-   ],
-   "date": "2015-6-17",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "Initial creation of the Component in Release 2.0",
-   "test-icon": "sap-icon://accept",
-   "test-status": "ok",
-   "text": "Changes: New Component Group;New Component Name;New Component Title;New Properties",
-   "title": "Component is now available in Release 2.0"
+   "date":"2016-1-7",
+   "title":"Start of Change Log",
+   "text":"Change Log has been started today, all changes in the component are now in the log",
+   "author":"n/a",
+   "icon":"sap-icon://notes",
+   "filterValue":"creation",
+   "test-status":"untested",
+   "test-comment":"Initial component status placement"
 }
 ]
