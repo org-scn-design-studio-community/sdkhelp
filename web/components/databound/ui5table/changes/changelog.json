@@ -24,6 +24,62 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource UI5Table - UI5Table.js",
+      "status": "untested"
+   }],
+   "date": "2016-1-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource UI5Table - UI5Table.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property DSortMode",
+         "status": "untested"
+      },
+      {
+         "change": "Resource UI5Table - UI5Table.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSortMode",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSortModeAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSortMode",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSortModeByString",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-1-8",
+   "filterValue": "enhancember",
+   "icon": "sap-icon://badge",
+   "test-comment": "See https://github.com/org-scn-design-studio-community/sdkpackage/issues/78 and https://github.com/org-scn-design-studio-community/sdkpackage/issues/79",
+   "test-icon": "sap-icon://accept",
+   "test-status": "ok",
+   "text": "Changes: New Property SortMode - when set to KeyValue, sorting is not by text (better for values). Also, widths of header columns can be overwritten.",
+   "title": "Sort by Key and Value + Column Widths Overwrite"
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
