@@ -24,32 +24,7 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "New Property numberFormat",
-         "status": "untested"
-      },
-      {
-         "change": "Resource BYOData - BYOData.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-1-8",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Property numberFormat;Resource BYOData - BYOData.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component."
-}, 
-{
-   "date":"2016-1-7",
+   "date":"2016-1-8",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
