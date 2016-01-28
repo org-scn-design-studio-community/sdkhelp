@@ -27,6 +27,63 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Property TGeoJSONUrl",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data2",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data2config",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data3",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data3config",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data4",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data4config",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data5",
+         "status": "untested"
+      },
+      {
+         "change": "New Property data5config",
+         "status": "untested"
+      },
+      {
+         "change": "Resource LeafletMap - LeafletMap.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-1-28",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property TGeoJSONUrl;New Property data2;New Property data2config;New Property data3;New Property data3config;New Property data4;New Property data4config;New Property data5;New Property data5config;Resource LeafletMap - LeafletMap.js;Resource def - contribution.xml;",
+   "title": "There were 11 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property TResourceUrl",
          "status": "untested"
       },

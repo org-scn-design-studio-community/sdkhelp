@@ -24,6 +24,31 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource FlowLayouter - FlowLayouter.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-1-28",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource FlowLayouter - FlowLayouter.js;Resource def - contribution.xml;Resource def - contribution.ztl;",
+   "title": "There were 3 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
