@@ -24,6 +24,167 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property rows",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getRows",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setRows",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property rows;Resource spec - specification.json;New Ztl Function getRows;New Ztl Function setRows;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource TextArea - TextArea.js",
+      "status": "untested"
+   }],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource TextArea - TextArea.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource TextArea - TextArea.js",
+      "status": "untested"
+   }],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource TextArea - TextArea.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource TextArea - TextArea.js",
+      "status": "untested"
+   }],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource TextArea - TextArea.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource TextArea - TextArea.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource TextArea - TextArea.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource TextArea - TextArea.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource TextArea - TextArea.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property wrapping",
+         "status": "untested"
+      },
+      {
+         "change": "Resource TextArea - TextArea.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getWrapping",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getWrappingAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setWrapping",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setWrappingByString",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property wrapping;Resource TextArea - TextArea.js;Resource spec - component.json;Resource spec - specification.json;New Ztl Function getWrapping;New Ztl Function getWrappingAsString;New Ztl Function setWrapping;New Ztl Function setWrappingByString;",
+   "title": "There were 8 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
