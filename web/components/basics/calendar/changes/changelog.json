@@ -24,6 +24,35 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource Calendar - Calendar.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Calendar - Calendar.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource Calendar - bg white transparent.png",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-1-31",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Calendar - Calendar.css;Resource Calendar - Calendar.js;New Resource Calendar - bg white transparent.png;Resource spec - specification.json;",
+   "title": "There were 4 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",

@@ -24,6 +24,161 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource CheckBoxGroup - CheckBoxGroup.js",
+      "status": "untested"
+   }],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource CheckBoxGroup - CheckBoxGroup.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property checkboxWidth",
+         "status": "untested"
+      },
+      {
+         "change": "Resource CheckBoxGroup - CheckBoxGroup.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource CheckBoxGroup - CheckBoxGroup.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getCheckboxWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCheckboxWidth",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property checkboxWidth;Resource CheckBoxGroup - CheckBoxGroup.css;Resource CheckBoxGroup - CheckBoxGroup.js;Resource spec - specification.json;New Ztl Function getCheckboxWidth;New Ztl Function setCheckboxWidth;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property selLayout",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelLayout",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelLayoutAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelLayout",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelLayoutByString",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property selLayout;Resource spec - specification.json;New Ztl Function getSelLayout;New Ztl Function getSelLayoutAsString;New Ztl Function setSelLayout;New Ztl Function setSelLayoutByString;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property layout",
+         "status": "untested"
+      },
+      {
+         "change": "Resource CheckBoxGroup - CheckBoxGroup.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLayout",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLayoutAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLayout",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLayoutByString",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property layout;Resource CheckBoxGroup - CheckBoxGroup.js;Resource spec - component.json;Resource spec - specification.json;New Ztl Function getLayout;New Ztl Function getLayoutAsString;New Ztl Function setLayout;New Ztl Function setLayoutByString;",
+   "title": "There were 8 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
