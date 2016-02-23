@@ -27,6 +27,35 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource MultiLevelDropDown - MultiLevelDropDown.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHierarchyMembersAsJsonString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHierarchyMembersSource",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource MultiLevelDropDown - MultiLevelDropDown.js;Resource def - contribution.ztl;New Ztl Function getHierarchyMembersAsJsonString;New Ztl Function getHierarchyMembersSource;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property hideMenu",
          "status": "untested"
       },

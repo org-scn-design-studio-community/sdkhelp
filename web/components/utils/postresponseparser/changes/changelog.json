@@ -26,6 +26,304 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-2-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-2-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllHeaders",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function cleanAllParameters",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function cleanAllHeaders;Ztl Function cleanAllParameters;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllParameters",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;Resource spec - specification.json;New Ztl Function cleanAllParameters;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addReturnHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addReturnParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHeaderAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHeaderValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHeadersAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getParameterAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getParameterValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getParametersAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnHeaderAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnHeaderValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnHeadersAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnParameterAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnParameterValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnParametersAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertReturnHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertReturnParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeReturnHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeReturnParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHeaderValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHeaderValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setParameterValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setParameterValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setReturnHeaderValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setReturnHeaderValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setReturnParameterValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setReturnParameterValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateParameter",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateReturnHeader",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateReturnParameter",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;New Ztl Function addHeader;New Ztl Function addParameter;New Ztl Function addReturnHeader;New Ztl Function addReturnParameter;New Ztl Function getHeaderAtIndex;New Ztl Function getHeaderValue;New Ztl Function getHeadersAsJSON;New Ztl Function getParameterAtIndex;New Ztl Function getParameterValue;New Ztl Function getParametersAsJSON;New Ztl Function getReturnHeaderAtIndex;New Ztl Function getReturnHeaderValue;New Ztl Function getReturnHeadersAsJSON;New Ztl Function getReturnParameterAtIndex;New Ztl Function getReturnParameterValue;New Ztl Function getReturnParametersAsJSON;New Ztl Function insertHeader;New Ztl Function insertParameter;New Ztl Function insertReturnHeader;New Ztl Function insertReturnParameter;New Ztl Function removeHeader;New Ztl Function removeParameter;New Ztl Function removeReturnHeader;New Ztl Function removeReturnParameter;New Ztl Function setHeaderValue;New Ztl Function setHeaderValues;New Ztl Function setParameterValue;New Ztl Function setParameterValues;New Ztl Function setReturnHeaderValue;New Ztl Function setReturnHeaderValues;New Ztl Function setReturnParameterValue;New Ztl Function setReturnParameterValues;New Ztl Function updateHeader;New Ztl Function updateParameter;New Ztl Function updateReturnHeader;New Ztl Function updateReturnParameter;",
+   "title": "There were 37 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource PostResponseParser - PostResponseParser.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addElement",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getElementAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getElementValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getElementsAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertElement",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeElement",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setElementValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setElementValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateElement",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource PostResponseParser - PostResponseParser.js;Resource spec - specification.json;New Ztl Function addElement;New Ztl Function getElementAtIndex;New Ztl Function getElementValue;New Ztl Function getElementsAsJSON;New Ztl Function insertElement;New Ztl Function removeElement;New Ztl Function setElementValue;New Ztl Function setElementValues;New Ztl Function updateElement;",
+   "title": "There were 11 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "Resource spec - component.json",
       "status": "untested"
    }],
