@@ -25,6 +25,31 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValue",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-2-24",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;New Ztl Function getValue;New Ztl Function setValue;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource def - contribution.ztl",
       "status": "untested"

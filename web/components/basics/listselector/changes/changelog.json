@@ -24,6 +24,21 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource ListSelector - ListSelector.js",
+      "status": "untested"
+   }],
+   "date": "2016-2-24",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource ListSelector - ListSelector.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
