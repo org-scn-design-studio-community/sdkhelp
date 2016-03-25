@@ -27,6 +27,31 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource MultiComboBox - MultiComboBox.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource MultiComboBox - MultiComboBox commons.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource MultiComboBox - MultiComboBox.js;New Resource MultiComboBox - MultiComboBox commons.js;Resource def - contribution.xml;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property DPropFileUrl",
          "status": "untested"
       },

@@ -24,6 +24,57 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanAllElements",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllElements",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllElements;New Ztl Function removeAllElements;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function DCleanAllElements",
+      "status": "untested"
+   }],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function DCleanAllElements;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function DCleanAll",
+      "status": "untested"
+   }],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function DCleanAll;",
+   "title": "There were 1 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",

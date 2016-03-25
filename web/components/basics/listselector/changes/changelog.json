@@ -25,6 +25,63 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanAllElements",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllElements",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllElements;New Ztl Function removeAllElements;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function cleanAll",
+      "status": "untested"
+   }],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAll;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanAllTitles",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllTitles",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllTitles;New Ztl Function removeAllTitles;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource ListSelector - ListSelector.js",
       "status": "untested"
