@@ -27,7 +27,7 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
-         "change": "Resource ActivityViewer - ActivityViewer.js",
+         "change": "Resource Donut - Donut.js",
          "status": "untested"
       },
       {
@@ -35,28 +35,28 @@ changeLog = [
          "status": "untested"
       }
    ],
-   "date": "2016-3-24",
+   "date": "2016-3-28",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource ActivityViewer - ActivityViewer.js;Resource spec - specification.json;",
+   "text": "Changes: Resource Donut - Donut.js;Resource spec - specification.json;",
    "title": "There were 2 changes in the component."
 }, 
 {
    "author": "n/a",
    "changes": [
       {
-         "change": "New Property elementTextXPos",
+         "change": "New Property activateOnOutEvent",
          "status": "untested"
       },
       {
-         "change": "New Property elementTextYPos",
+         "change": "New Property activateOnOverEvent",
          "status": "untested"
       },
       {
-         "change": "Resource ActivityViewer - ActivityViewer.js",
+         "change": "New Resource Donut - Donut.png",
          "status": "untested"
       },
       {
@@ -64,137 +64,97 @@ changeLog = [
          "status": "untested"
       },
       {
-         "change": "New Ztl Function getElementTextXPos",
+         "change": "New Ztl Function isActivateOnOutEvent",
          "status": "untested"
       },
       {
-         "change": "New Ztl Function getElementTextYPos",
+         "change": "New Ztl Function isActivateOnOverEvent",
          "status": "untested"
       },
       {
-         "change": "New Ztl Function setElementTextXPos",
+         "change": "New Ztl Function setActivateOnOutEvent",
          "status": "untested"
       },
       {
-         "change": "New Ztl Function setElementTextYPos",
+         "change": "New Ztl Function setActivateOnOverEvent",
          "status": "untested"
       }
    ],
-   "date": "2016-3-24",
+   "date": "2016-3-28",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: New Property elementTextXPos;New Property elementTextYPos;Resource ActivityViewer - ActivityViewer.js;Resource spec - specification.json;New Ztl Function getElementTextXPos;New Ztl Function getElementTextYPos;New Ztl Function setElementTextXPos;New Ztl Function setElementTextYPos;",
+   "text": "Changes: New Property activateOnOutEvent;New Property activateOnOverEvent;New Resource Donut - Donut.png;Resource spec - specification.json;New Ztl Function isActivateOnOutEvent;New Ztl Function isActivateOnOverEvent;New Ztl Function setActivateOnOutEvent;New Ztl Function setActivateOnOverEvent;",
    "title": "There were 8 changes in the component."
 }, 
 {
    "author": "n/a",
-   "changes": [
-      {
-         "change": "New Property XLegendAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Property YLegendAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Property elementTextAngle",
-         "status": "untested"
-      },
-      {
-         "change": "Resource spec - specification.json",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getElementTextAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getXLegendAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getYLegendAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setElementTextAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setXLegendAngle",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setYLegendAngle",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-3-23",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Property XLegendAngle;New Property YLegendAngle;New Property elementTextAngle;Resource spec - specification.json;New Ztl Function getElementTextAngle;New Ztl Function getXLegendAngle;New Ztl Function getYLegendAngle;New Ztl Function setElementTextAngle;New Ztl Function setXLegendAngle;New Ztl Function setYLegendAngle;",
-   "title": "There were 10 changes in the component."
-}, 
-{
-   "author": "n/a",
    "changes": [{
-      "change": "Resource ActivityViewer - ActivityViewer.css",
+      "change": "Resource spec - specification.json",
       "status": "untested"
    }],
-   "date": "2016-3-10",
+   "date": "2016-3-28",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource ActivityViewer - ActivityViewer.css;",
+   "text": "Changes: Resource spec - specification.json;",
    "title": "There were 1 changes in the component."
 }, 
 {
    "author": "n/a",
    "changes": [
       {
-         "change": "New Ztl Function cleanAllActivities",
+         "change": "Resource spec - component.json",
          "status": "untested"
       },
       {
-         "change": "New Ztl Function cleanAllCategories",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function removeAllActivities",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function removeAllCategories",
+         "change": "Resource spec - specification.json",
          "status": "untested"
       }
    ],
-   "date": "2016-3-3",
+   "date": "2016-3-28",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: New Ztl Function cleanAllActivities;New Ztl Function cleanAllCategories;New Ztl Function removeAllActivities;New Ztl Function removeAllCategories;",
-   "title": "There were 4 changes in the component."
+   "text": "Changes: Resource spec - component.json;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
 }, 
 {
    "author": "n/a",
    "changes": [
       {
-         "change": "New Property cleanAllActivities",
+         "change": "Resource Donut - Donut.js",
          "status": "untested"
       },
       {
-         "change": "New Property cleanAllCategories",
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-28",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Donut - Donut.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property arrowColor",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Donut - Donut.js",
          "status": "untested"
       },
       {
@@ -202,40 +162,82 @@ changeLog = [
          "status": "untested"
       },
       {
-         "change": "New Ztl Function cleanAllElements",
+         "change": "New Ztl Function getArrowColor",
          "status": "untested"
       },
       {
-         "change": "New Ztl Function removeAllElements",
+         "change": "New Ztl Function setArrowColor",
          "status": "untested"
       }
    ],
-   "date": "2016-3-3",
+   "date": "2016-3-28",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: New Property cleanAllActivities;New Property cleanAllCategories;Resource spec - specification.json;New Ztl Function cleanAllElements;New Ztl Function removeAllElements;",
+   "text": "Changes: New Property arrowColor;Resource Donut - Donut.js;Resource spec - specification.json;New Ztl Function getArrowColor;New Ztl Function setArrowColor;",
    "title": "There were 5 changes in the component."
 }, 
 {
    "author": "n/a",
-   "changes": [{
-      "change": "Resource spec - component.json",
-      "status": "untested"
-   }],
-   "date": "2016-2-10",
+   "changes": [
+      {
+         "change": "New Property direction",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onClick",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onMouseOut",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onMouseOver",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource Donut - Donut.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Donut - Donut.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDirection",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDirectionAsString",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDirection",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDirectionByString",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-28",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource spec - component.json;",
-   "title": "There were 1 changes in the component."
+   "text": "Changes: New Property direction;New Property onClick;New Property onMouseOut;New Property onMouseOver;New Resource Donut - Donut.css;Resource Donut - Donut.js;Resource spec - specification.json;New Ztl Function getDirection;New Ztl Function getDirectionAsString;New Ztl Function setDirection;New Ztl Function setDirectionByString;",
+   "title": "There were 11 changes in the component."
 }, 
 {
-   "date":"2016-1-7",
+   "date":"2016-3-28",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",

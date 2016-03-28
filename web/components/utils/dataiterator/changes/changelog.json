@@ -25,6 +25,177 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function flatten",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function flatten;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function flatten",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function flatten;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property compressedLength",
+         "status": "untested"
+      },
+      {
+         "change": "New Property compressionTime",
+         "status": "untested"
+      },
+      {
+         "change": "New Property decompressionTime",
+         "status": "untested"
+      },
+      {
+         "change": "New Property encodedLength",
+         "status": "untested"
+      },
+      {
+         "change": "New Property flatLength",
+         "status": "untested"
+      },
+      {
+         "change": "New Property includeFormattedValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onOverflow",
+         "status": "untested"
+      },
+      {
+         "change": "New Property safetyBelt",
+         "status": "untested"
+      },
+      {
+         "change": "New Property waitTime",
+         "status": "untested"
+      },
+      {
+         "change": "Resource DataIterator - DataIterator.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function decompress",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function decompressFromEncodedURIComponent",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function determineDimension",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function flatten",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getCompressedPayloadLength",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getCompressionTime",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDecompressionTime",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getDimensions",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getEncodedPayloadLength",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getIncludeFormattedValues",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getMeasures",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getPayload",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getPayloadLength",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getRows",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function initializeOptions",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function makeLZ",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setIncludeFormattedValues",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-3-3",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property compressedLength;New Property compressionTime;New Property decompressionTime;New Property encodedLength;New Property flatLength;New Property includeFormattedValues;New Property onOverflow;New Property safetyBelt;New Property waitTime;Resource DataIterator - DataIterator.js;Resource def - contribution.xml;Resource def - contribution.ztl;New Ztl Function decompress;New Ztl Function decompressFromEncodedURIComponent;Ztl Function determineDimension;New Ztl Function flatten;New Ztl Function getCompressedPayloadLength;New Ztl Function getCompressionTime;New Ztl Function getDecompressionTime;Ztl Function getDimensions;New Ztl Function getEncodedPayloadLength;New Ztl Function getIncludeFormattedValues;Ztl Function getMeasures;New Ztl Function getPayload;New Ztl Function getPayloadLength;Ztl Function getRows;New Ztl Function initializeOptions;New Ztl Function makeLZ;New Ztl Function setIncludeFormattedValues;",
+   "title": "There were 29 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource DataIterator - DataIterator.js",
       "status": "untested"
