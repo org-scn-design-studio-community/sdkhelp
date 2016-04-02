@@ -27,6 +27,96 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource Accordion - Accordion.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-2",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Accordion - Accordion.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource Accordion - Accordion.js",
+      "status": "untested"
+   }],
+   "date": "2016-4-2",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Accordion - Accordion.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addSection",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-2",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;Ztl Function addSection;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addSection",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSectionHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSectionHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSectionHeights",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-2",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;Ztl Function addSection;New Ztl Function getSectionHeight;New Ztl Function setSectionHeight;New Ztl Function setSectionHeights;",
+   "title": "There were 5 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "Resource spec - specification.json",
          "status": "untested"
       },
