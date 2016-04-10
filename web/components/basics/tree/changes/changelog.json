@@ -27,6 +27,72 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource Tree - Tree.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Tree - Tree.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property allowExpanding",
+         "status": "untested"
+      },
+      {
+         "change": "New Property expandNodes",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Tree - Tree.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isAllowExpanding",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isExpandNodes",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAllowExpanding",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setExpandNodes",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property allowExpanding;New Property expandNodes;Resource Tree - Tree.js;Resource spec - specification.json;New Ztl Function isAllowExpanding;New Ztl Function isExpandNodes;New Ztl Function setAllowExpanding;New Ztl Function setExpandNodes;",
+   "title": "There were 8 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Ztl Function cleanAllElements",
          "status": "untested"
       },
