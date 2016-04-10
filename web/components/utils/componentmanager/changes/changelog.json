@@ -26,6 +26,66 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "New Ztl Function returnAsScnPlanningCalendar",
+      "status": "untested"
+   }],
+   "date": "2016-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function returnAsScnPlanningCalendar;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function returnAsScnSideNavigation",
+      "status": "untested"
+   }],
+   "date": "2016-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function returnAsScnSideNavigation;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function returnAsScnBreadcrumbs",
+      "status": "untested"
+   }],
+   "date": "2016-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function returnAsScnBreadcrumbs;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function returnAsScnFloatButton",
+      "status": "untested"
+   }],
+   "date": "2016-4-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function returnAsScnFloatButton;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "New Ztl Function returnAsScnGoogleCandle",
       "status": "untested"
    }],

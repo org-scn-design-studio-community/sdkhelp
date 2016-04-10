@@ -26,6 +26,21 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "Resource DateRangeScroller - DateRangeScroller.js",
+      "status": "untested"
+   }],
+   "date": "2016-4-6",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource DateRangeScroller - DateRangeScroller.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "Resource spec - component.json",
       "status": "untested"
    }],

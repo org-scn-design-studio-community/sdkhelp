@@ -25,111 +25,118 @@
 changeLog = [
 {
    "author": "n/a",
-   "changes": [
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function initializeWithInternalDate",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-4-8",
+   "changes": [{
+      "change": "Resource Breadcrumbs - Breadcrumbs.js",
+      "status": "untested"
+   }],
+   "date": "2016-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource def - contribution.ztl;Ztl Function initializeWithInternalDate;",
+   "text": "Changes: Resource Breadcrumbs - Breadcrumbs.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource Breadcrumbs - Breadcrumbs.js",
+      "status": "untested"
+   }],
+   "date": "2016-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Breadcrumbs - Breadcrumbs.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource Breadcrumbs - Breadcrumbs.js",
+      "status": "untested"
+   }],
+   "date": "2016-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Breadcrumbs - Breadcrumbs.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource Breadcrumbs - Breadcrumbs.view.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - about.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-9",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Breadcrumbs - Breadcrumbs.view.xml;Resource spec - about.json;",
    "title": "There were 2 changes in the component."
 }, 
 {
    "author": "n/a",
    "changes": [
       {
-         "change": "Resource def - contribution.ztl",
+         "change": "New Property contentWidth",
          "status": "untested"
       },
       {
-         "change": "Ztl Function initializeWithInternalDate",
+         "change": "Resource Breadcrumbs - Breadcrumbs.js",
          "status": "untested"
       }
    ],
-   "date": "2016-4-8",
+   "date": "2016-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource def - contribution.ztl;Ztl Function initializeWithInternalDate;",
+   "text": "Changes: New Property contentWidth;Resource Breadcrumbs - Breadcrumbs.js;",
    "title": "There were 2 changes in the component."
 }, 
 {
    "author": "n/a",
    "changes": [
       {
-         "change": "Resource def - contribution.ztl",
+         "change": "New Property useContentWidth",
          "status": "untested"
       },
       {
-         "change": "New Ztl Function getCurrentTime",
+         "change": "New Resource Breadcrumbs - Breadcrumbs.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Breadcrumbs - Breadcrumbs.view.xml",
          "status": "untested"
       }
    ],
-   "date": "2016-2-9",
+   "date": "2016-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource def - contribution.ztl;New Ztl Function getCurrentTime;",
-   "title": "There were 2 changes in the component."
+   "text": "Changes: New Property useContentWidth;New Resource Breadcrumbs - Breadcrumbs.css;Resource Breadcrumbs - Breadcrumbs.view.xml;",
+   "title": "There were 3 changes in the component."
 }, 
 {
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "Ztl Function initializeWithInternalDate",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-1-31",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource def - contribution.ztl;Ztl Function initializeWithInternalDate;",
-   "title": "There were 2 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "Component Group",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-1-28",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Component Group;Resource def - contribution.xml;",
-   "title": "There were 2 changes in the component."
-}, 
-{
-   "date":"2016-1-7",
+   "date":"2016-4-9",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
