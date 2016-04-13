@@ -27,6 +27,82 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Resource Math - Math.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Math - Math.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Resource Math - Math.css;Resource Math - Math.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource Math - Math.js",
+      "status": "untested"
+   }],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Math - Math.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Math - Math.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;Resource Math - Math.js;Resource def - contribution.xml;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource def - contribution.xml",
+      "status": "untested"
+   }],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "Component Group",
          "status": "untested"
       },

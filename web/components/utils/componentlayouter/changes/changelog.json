@@ -25,6 +25,31 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function examineCanvas",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function getItems",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function examineCanvas;Ztl Function getItems;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource ComponentLayouter - ComponentLayouter.js",
       "status": "untested"

@@ -25,6 +25,168 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [{
+      "change": "New Resource Array - Array.css",
+      "status": "untested"
+   }],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Resource Array - Array.css;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "New Property items",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Array - Array.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource def - custom.html",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function createArray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function eaches",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function fillIntoSelectionComponent",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLength",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValueByIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValueByKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValuesAsSimpleStringArray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getValuesAsValueTextArray",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllValues",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeValue",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setValues",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;New Property items;Resource Array - Array.js;New Resource def - contribution.xml;New Resource def - contribution.ztl;New Resource def - custom.html;New Ztl Function addValue;New Ztl Function createArray;New Ztl Function eaches;New Ztl Function fillIntoSelectionComponent;New Ztl Function getLength;New Ztl Function getValueByIndex;New Ztl Function getValueByKey;New Ztl Function getValues;New Ztl Function getValuesAsSimpleStringArray;New Ztl Function getValuesAsValueTextArray;New Ztl Function removeAllValues;New Ztl Function removeValue;New Ztl Function setValues;",
+   "title": "There were 19 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Component Title",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Array - Array.js",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - about.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - component.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Component Title;Resource Array - Array.js;New Resource spec - about.json;New Resource spec - component.json;New Resource spec - contribution.ztl;New Resource spec - specification.json;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource Array - Array.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-13",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Array - Array.js;Resource def - contribution.xml;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [
       {
          "change": "Component Group",
