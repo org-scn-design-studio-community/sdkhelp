@@ -25,6 +25,27 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource Gauge - Gauge.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - component.json",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-4-18",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Gauge - Gauge.js;Resource spec - component.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource Gauge - Gauge.js",
       "status": "untested"
