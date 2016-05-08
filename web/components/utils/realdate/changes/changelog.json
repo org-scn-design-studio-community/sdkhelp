@@ -25,6 +25,35 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function formatWithMask",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function private checkPrototypeFormat",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function private checkPrototypeRecalculate",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function formatWithMask;Ztl Function private checkPrototypeFormat;Ztl Function private checkPrototypeRecalculate;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource RealDate - RealDate.js",
       "status": "untested"
