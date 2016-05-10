@@ -29,6 +29,96 @@ changeLog = [
       "change": "Resource PlanningCalendar - PlanningCalendar.view.xml",
       "status": "untested"
    }],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource PlanningCalendar - PlanningCalendar.view.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - about.json",
+      "status": "untested"
+   }],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - about.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - component.json",
+      "status": "untested"
+   }],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - component.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource PlanningCalendar - PlanningCalendar.view.xml",
+      "status": "untested"
+   }],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource PlanningCalendar - PlanningCalendar.view.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource PlanningCalendar - PlanningCalendar.view.xml",
+      "status": "untested"
+   }],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource PlanningCalendar - PlanningCalendar.view.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource PlanningCalendar - PlanningCalendar.view.xml",
+      "status": "untested"
+   }],
+   "date": "2016-5-4",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource PlanningCalendar - PlanningCalendar.view.xml;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource PlanningCalendar - PlanningCalendar.view.xml",
+      "status": "untested"
+   }],
    "date": "2016-4-9",
    "filterValue": "change",
    "icon": "sap-icon://notes",

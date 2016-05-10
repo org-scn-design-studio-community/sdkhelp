@@ -25,6 +25,69 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [{
+      "change": "Resource UI5Table - UI5Table.js",
+      "status": "untested"
+   }],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource UI5Table - UI5Table.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-5-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property DShowKeys",
+         "status": "untested"
+      },
+      {
+         "change": "Resource UI5Table - UI5Table.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isShowKeys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setShowKeys",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-6",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property DShowKeys;Resource UI5Table - UI5Table.js;Resource spec - specification.json;New Ztl Function isShowKeys;New Ztl Function setShowKeys;",
+   "title": "There were 5 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [
       {
          "change": "Resource UI5Table - UI5Table.js",

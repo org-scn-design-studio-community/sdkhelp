@@ -27,6 +27,27 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Ztl Function returnAsScnCustomMap",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function returnAsScnMyTileContainer",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-10",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function returnAsScnCustomMap;New Ztl Function returnAsScnMyTileContainer;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "Ztl Function internal listAllComponentsWithType",
          "status": "untested"
       },
