@@ -25,6 +25,35 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property cleanAllAppointments",
+         "status": "untested"
+      },
+      {
+         "change": "New Property cleanAllIntervalHeaders",
+         "status": "untested"
+      },
+      {
+         "change": "New Property cleanAllRows",
+         "status": "untested"
+      },
+      {
+         "change": "Resource PlanningCalendar - PlanningCalendar.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-11",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property cleanAllAppointments;New Property cleanAllIntervalHeaders;New Property cleanAllRows;Resource PlanningCalendar - PlanningCalendar.js;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource PlanningCalendar - PlanningCalendar.view.xml",
       "status": "untested"

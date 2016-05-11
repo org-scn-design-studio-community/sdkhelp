@@ -25,6 +25,48 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property cleanAllLinks",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Breadcrumbs - Breadcrumbs.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-11",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property cleanAllLinks;Resource Breadcrumbs - Breadcrumbs.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource Breadcrumbs - Breadcrumbs.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Breadcrumbs - Breadcrumbs.view.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-11",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource Breadcrumbs - Breadcrumbs.css;Resource Breadcrumbs - Breadcrumbs.view.xml;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource Breadcrumbs - Breadcrumbs.js",
       "status": "untested"
