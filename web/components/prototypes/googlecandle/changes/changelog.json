@@ -26,6 +26,97 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "New Ztl Function cleanAllCandles",
+      "status": "untested"
+   }],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllCandles;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function cleanCandles",
+      "status": "untested"
+   }],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanCandles;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function getCandleEnd1",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getCandleEnd2",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getCandleStart1",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getCandleStart2",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleEnd1",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleEnd1s",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleEnd2",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleEnd2s",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleStart1",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleStart1s",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleStart2",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setCandleStart2s",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function getCandleEnd1;New Ztl Function getCandleEnd2;New Ztl Function getCandleStart1;New Ztl Function getCandleStart2;New Ztl Function setCandleEnd1;New Ztl Function setCandleEnd1s;New Ztl Function setCandleEnd2;New Ztl Function setCandleEnd2s;New Ztl Function setCandleStart1;New Ztl Function setCandleStart1s;New Ztl Function setCandleStart2;New Ztl Function setCandleStart2s;",
+   "title": "There were 12 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "Resource GoogleCandle - GoogleCandle.js",
       "status": "untested"
    }],

@@ -24,37 +24,7 @@
 
 changeLog = [
 {
-   "author": "n/a",
-   "changes": [{
-      "change": "New Ztl Function cleanAllButtons",
-      "status": "untested"
-   }],
-   "date": "2016-5-30",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Ztl Function cleanAllButtons;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [{
-      "change": "New Ztl Function cleanButtons",
-      "status": "untested"
-   }],
-   "date": "2016-5-30",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Ztl Function cleanButtons;",
-   "title": "There were 1 changes in the component."
-}, 
-{
-   "date":"2016-1-7",
+   "date":"2016-5-30",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",

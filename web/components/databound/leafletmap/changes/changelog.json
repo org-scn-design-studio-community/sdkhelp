@@ -27,6 +27,46 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Property crs",
+         "status": "untested"
+      },
+      {
+         "change": "Resource LeafletMap - LeafletMap.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-6",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property crs;Resource LeafletMap - LeafletMap.js;Resource def - contribution.xml;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource LeafletMap - LeafletMap.js",
+      "status": "untested"
+   }],
+   "date": "2016-6-6",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource LeafletMap - LeafletMap.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property TGeoJSONUrl",
          "status": "untested"
       },

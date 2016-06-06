@@ -25,6 +25,57 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanAllColumnWidthEntrys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllRules",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllColumnWidthEntrys;New Ztl Function cleanAllRules;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function cleanRules",
+      "status": "untested"
+   }],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanRules;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function cleanColumnWidthEntrys",
+      "status": "untested"
+   }],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanColumnWidthEntrys;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource UI5Table - UI5Table.js",
       "status": "untested"
