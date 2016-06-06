@@ -25,6 +25,56 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanAllReturnHeaders",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllReturnParameters",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllReturnHeaders;New Ztl Function cleanAllReturnParameters;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanHeaders",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanParameters",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanReturnHeaders",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanReturnParameters",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanHeaders;New Ztl Function cleanParameters;New Ztl Function cleanReturnHeaders;New Ztl Function cleanReturnParameters;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource spec - specification.json",
       "status": "untested"

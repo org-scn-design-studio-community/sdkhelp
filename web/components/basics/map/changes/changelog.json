@@ -25,6 +25,73 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function cleanAllLocations",
+      "status": "untested"
+   }],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllLocations;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "New Ztl Function cleanLocations",
+      "status": "untested"
+   }],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanLocations;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function getLocationLat",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLocationLong",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLocationLat",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLocationLats",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLocationLong",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setLocationLongs",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function getLocationLat;New Ztl Function getLocationLong;New Ztl Function setLocationLat;New Ztl Function setLocationLats;New Ztl Function setLocationLong;New Ztl Function setLocationLongs;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [
       {
          "change": "New Ztl Function cleanAllElements",

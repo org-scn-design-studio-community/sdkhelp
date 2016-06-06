@@ -25,6 +25,56 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanAllActivitys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllCategorys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllStates",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanAllActivitys;New Ztl Function cleanAllCategorys;New Ztl Function cleanAllStates;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Ztl Function cleanActivitys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanCategorys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanStates",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-5-30",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function cleanActivitys;New Ztl Function cleanCategorys;New Ztl Function cleanStates;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "Resource ActivityViewer - ActivityViewer.js",
       "status": "untested"
