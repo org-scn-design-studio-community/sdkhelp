@@ -24,6 +24,43 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addItem",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function removeAllItems",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function removeHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function removeItem",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function addHeaderButton;Ztl Function addItem;Ztl Function removeAllItems;Ztl Function removeHeaderButton;Ztl Function removeItem;",
+   "title": "There were 6 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",

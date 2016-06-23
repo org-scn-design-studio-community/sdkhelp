@@ -27,6 +27,69 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setRawParameters",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function setRawParameters;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnHeadersAsNameValueArray",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function getReturnHeadersAsNameValueArray;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getReturnParametersAsNameValueArray",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - contribution.ztl;New Ztl Function getReturnParametersAsNameValueArray;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Ztl Function cleanAllReturnHeaders",
          "status": "untested"
       },
