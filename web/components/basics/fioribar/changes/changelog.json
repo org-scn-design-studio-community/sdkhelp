@@ -24,6 +24,99 @@
 
 changeLog = [
 {
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource FioriBar - FioriBar.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addLeftHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addLeftItem",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addMiddleHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addMiddleItem",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addRightHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addRightItem",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllLeftButtons",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllLeftItems",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllMiddleButtons",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllMiddleItems",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllRightButtons",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAllRightItems",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeLeftHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeLeftItem",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeMiddleHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeMiddleItem",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeRightHeaderButton",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeRightItem",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource FioriBar - FioriBar.js;Resource def - contribution.ztl;New Ztl Function addLeftHeaderButton;New Ztl Function addLeftItem;New Ztl Function addMiddleHeaderButton;New Ztl Function addMiddleItem;New Ztl Function addRightHeaderButton;New Ztl Function addRightItem;New Ztl Function removeAllLeftButtons;New Ztl Function removeAllLeftItems;New Ztl Function removeAllMiddleButtons;New Ztl Function removeAllMiddleItems;New Ztl Function removeAllRightButtons;New Ztl Function removeAllRightItems;New Ztl Function removeLeftHeaderButton;New Ztl Function removeLeftItem;New Ztl Function removeMiddleHeaderButton;New Ztl Function removeMiddleItem;New Ztl Function removeRightHeaderButton;New Ztl Function removeRightItem;",
+   "title": "There were 20 changes in the component."
+}, 
+{
    "date":"2016-1-7",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",

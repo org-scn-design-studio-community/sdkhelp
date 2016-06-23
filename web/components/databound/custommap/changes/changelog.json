@@ -27,6 +27,475 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Property areaDeselectable",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaProperties",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaSelectable",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Property areaStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Property displayStroke",
+         "status": "untested"
+      },
+      {
+         "change": "New Property displayTooltip",
+         "status": "untested"
+      },
+      {
+         "change": "New Property dynamicColorPalette",
+         "status": "untested"
+      },
+      {
+         "change": "New Property enableAreaFill",
+         "status": "untested"
+      },
+      {
+         "change": "New Property enableDynamicColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Property enableSpecificPropHighlight",
+         "status": "untested"
+      },
+      {
+         "change": "New Property enableSpecificPropSelected",
+         "status": "untested"
+      },
+      {
+         "change": "New Property highlightFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property highlightFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Property highlightStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property highlightStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Property highlightStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Property hoveredArea",
+         "status": "untested"
+      },
+      {
+         "change": "New Property mapDataKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onlySingleSelect",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedAreas",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Property selectedStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "Resource CustomMap - CustomMap.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource CustomMap - CustomMap.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - about.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Resource spec - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function addAreaProperty",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function cleanAllAreaPropertys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertyAtIndex",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertyFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertyFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertyStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertyStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertyStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaPropertysAsJSON",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getAreaStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getDynamicColorPalette",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHighlightFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHighlightFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHighlightStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHighlightStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHighlightStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getHoveredArea",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getMapDataKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedAreas",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getSelectedStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function insertAreaProperty",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isAreaDeselectable",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isAreaSelectable",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isDisplayStroke",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isDisplayTooltip",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isEnableAreaFill",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isEnableDynamicColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isEnableSpecificPropHighlight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isEnableSpecificPropSelected",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isOnlySingleSelect",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function removeAreaProperty",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaDeselectable",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyFillColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyFillOpacitys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyStrokeColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyStrokeOpacitys",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaPropertyStrokeWidths",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaSelectable",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setAreaStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDisplayStroke",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDisplayTooltip",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setDynamicColorPalette",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setEnableAreaFill",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setEnableDynamicColors",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setEnableSpecificPropHighlight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setEnableSpecificPropSelected",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHighlightFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHighlightFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHighlightStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHighlightStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setHighlightStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setMapDataKey",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setOnlySingleSelect",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedAreas",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedFillColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedFillOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedStrokeColor",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedStrokeOpacity",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setSelectedStrokeWidth",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setStroke",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function updateAreaProperty",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-6-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property areaDeselectable;New Property areaFillColor;New Property areaFillOpacity;New Property areaProperties;New Property areaSelectable;New Property areaStrokeColor;New Property areaStrokeOpacity;New Property areaStrokeWidth;New Property displayStroke;New Property displayTooltip;New Property dynamicColorPalette;New Property enableAreaFill;New Property enableDynamicColors;New Property enableSpecificPropHighlight;New Property enableSpecificPropSelected;New Property highlightFillColor;New Property highlightFillOpacity;New Property highlightStrokeColor;New Property highlightStrokeOpacity;New Property highlightStrokeWidth;New Property hoveredArea;New Property mapDataKey;New Property onlySingleSelect;New Property selectedAreas;New Property selectedFillColor;New Property selectedFillOpacity;New Property selectedStrokeColor;New Property selectedStrokeOpacity;New Property selectedStrokeWidth;Resource CustomMap - CustomMap.css;Resource CustomMap - CustomMap.js;Resource spec - about.json;New Resource spec - contribution.ztl;Resource spec - specification.json;New Ztl Function addAreaProperty;New Ztl Function cleanAllAreaPropertys;New Ztl Function getAreaFillColor;New Ztl Function getAreaFillOpacity;New Ztl Function getAreaPropertyAtIndex;New Ztl Function getAreaPropertyFillColor;New Ztl Function getAreaPropertyFillOpacity;New Ztl Function getAreaPropertyStrokeColor;New Ztl Function getAreaPropertyStrokeOpacity;New Ztl Function getAreaPropertyStrokeWidth;New Ztl Function getAreaPropertysAsJSON;New Ztl Function getAreaStrokeColor;New Ztl Function getAreaStrokeOpacity;New Ztl Function getAreaStrokeWidth;New Ztl Function getDynamicColorPalette;New Ztl Function getFillColor;New Ztl Function getHighlightFillColor;New Ztl Function getHighlightFillOpacity;New Ztl Function getHighlightStrokeColor;New Ztl Function getHighlightStrokeOpacity;New Ztl Function getHighlightStrokeWidth;New Ztl Function getHoveredArea;New Ztl Function getMapDataKey;New Ztl Function getSelectedAreas;New Ztl Function getSelectedFillColor;New Ztl Function getSelectedFillOpacity;New Ztl Function getSelectedStrokeColor;New Ztl Function getSelectedStrokeOpacity;New Ztl Function getSelectedStrokeWidth;New Ztl Function insertAreaProperty;New Ztl Function isAreaDeselectable;New Ztl Function isAreaSelectable;New Ztl Function isDisplayStroke;New Ztl Function isDisplayTooltip;New Ztl Function isEnableAreaFill;New Ztl Function isEnableDynamicColors;New Ztl Function isEnableSpecificPropHighlight;New Ztl Function isEnableSpecificPropSelected;New Ztl Function isOnlySingleSelect;New Ztl Function removeAreaProperty;New Ztl Function setAreaDeselectable;New Ztl Function setAreaFillColor;New Ztl Function setAreaFillOpacity;New Ztl Function setAreaPropertyFillColor;New Ztl Function setAreaPropertyFillColors;New Ztl Function setAreaPropertyFillOpacity;New Ztl Function setAreaPropertyFillOpacitys;New Ztl Function setAreaPropertyStrokeColor;New Ztl Function setAreaPropertyStrokeColors;New Ztl Function setAreaPropertyStrokeOpacity;New Ztl Function setAreaPropertyStrokeOpacitys;New Ztl Function setAreaPropertyStrokeWidth;New Ztl Function setAreaPropertyStrokeWidths;New Ztl Function setAreaSelectable;New Ztl Function setAreaStrokeColor;New Ztl Function setAreaStrokeOpacity;New Ztl Function setAreaStrokeWidth;New Ztl Function setDisplayStroke;New Ztl Function setDisplayTooltip;New Ztl Function setDynamicColorPalette;New Ztl Function setEnableAreaFill;New Ztl Function setEnableDynamicColors;New Ztl Function setEnableSpecificPropHighlight;New Ztl Function setEnableSpecificPropSelected;New Ztl Function setFillColor;New Ztl Function setHighlightFillColor;New Ztl Function setHighlightFillOpacity;New Ztl Function setHighlightStrokeColor;New Ztl Function setHighlightStrokeOpacity;New Ztl Function setHighlightStrokeWidth;New Ztl Function setMapDataKey;New Ztl Function setOnlySingleSelect;New Ztl Function setSelectedAreas;New Ztl Function setSelectedFillColor;New Ztl Function setSelectedFillOpacity;New Ztl Function setSelectedStrokeColor;New Ztl Function setSelectedStrokeOpacity;New Ztl Function setSelectedStrokeWidth;New Ztl Function setStroke;New Ztl Function updateAreaProperty;",
+   "title": "There were 114 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property activateOnMouseOverOut",
          "status": "untested"
       },
