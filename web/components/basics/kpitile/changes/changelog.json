@@ -26,6 +26,21 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "Resource KpiTile - KpiTile.js",
+      "status": "untested"
+   }],
+   "date": "2016-8-11",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "New Ztl Function cleanAllComponents",
       "status": "untested"
    }],

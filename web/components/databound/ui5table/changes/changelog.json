@@ -25,6 +25,21 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [{
+      "change": "Resource UI5Table - UI5Table.js",
+      "status": "untested"
+   }],
+   "date": "2016-8-8",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource UI5Table - UI5Table.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [
       {
          "change": "New Ztl Function cleanAllColumnWidthEntrys",
