@@ -26,6 +26,21 @@ changeLog = [
 {
    "author": "n/a",
    "changes": [{
+      "change": "New Ztl Function returnAsScnClipboard",
+      "status": "untested"
+   }],
+   "date": "2016-8-20",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Ztl Function returnAsScnClipboard;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
       "change": "New Ztl Function returnAsScnReplacer",
       "status": "untested"
    }],
