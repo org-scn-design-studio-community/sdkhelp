@@ -27,6 +27,47 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Property DEnabled",
+         "status": "untested"
+      },
+      {
+         "change": "Resource MultiComboBox - MultiComboBox.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource MultiComboBox - MultiComboBox commons.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getEnabled",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setEnabled",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-8-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property DEnabled;Resource MultiComboBox - MultiComboBox.js;Resource MultiComboBox - MultiComboBox commons.js;Resource def - contribution.xml;Resource def - contribution.ztl;New Ztl Function getEnabled;New Ztl Function setEnabled;",
+   "title": "There were 7 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "Resource MultiComboBox - MultiComboBox.js",
          "status": "untested"
       },
