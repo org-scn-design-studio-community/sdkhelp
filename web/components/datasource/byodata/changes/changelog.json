@@ -27,6 +27,52 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function deleteRow",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function deleteRows",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-8-23",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function deleteRow;New Ztl Function deleteRows;",
+   "title": "There were 3 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function deleteRow",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-8-22",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource def - contribution.ztl;Ztl Function deleteRow;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property numberFormat",
          "status": "untested"
       },
