@@ -27,145 +27,173 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
+         "change": "Resource KpiTile - KpiTile.js",
          "status": "untested"
       },
       {
-         "change": "Resource MultiComboBox - MultiComboBox commons.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function clearSelection",
+         "change": "Resource spec - specification.json",
          "status": "untested"
       }
    ],
-   "date": "2016-9-7",
+   "date": "2016-9-24",
    "filterValue": "change",
    "icon": "sap-icon://notes",
    "test-comment": "some component content has been changed, see details",
    "test-icon": "sap-icon://notification",
    "test-status": "untested",
-   "text": "Changes: Resource MultiComboBox - MultiComboBox.js;Resource MultiComboBox - MultiComboBox commons.js;Resource def - contribution.ztl;New Ztl Function clearSelection;",
-   "title": "There were 4 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "New Property DEnabled",
-         "status": "untested"
-      },
-      {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource MultiComboBox - MultiComboBox commons.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.ztl",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function getEnabled",
-         "status": "untested"
-      },
-      {
-         "change": "New Ztl Function setEnabled",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-8-22",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Property DEnabled;Resource MultiComboBox - MultiComboBox.js;Resource MultiComboBox - MultiComboBox commons.js;Resource def - contribution.xml;Resource def - contribution.ztl;New Ztl Function getEnabled;New Ztl Function setEnabled;",
-   "title": "There were 7 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
-         "status": "untested"
-      },
-      {
-         "change": "New Resource MultiComboBox - MultiComboBox commons.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-3-23",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource MultiComboBox - MultiComboBox.js;New Resource MultiComboBox - MultiComboBox commons.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "New Property DPropFileUrl",
-         "status": "untested"
-      },
-      {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-2-24",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: New Property DPropFileUrl;Resource MultiComboBox - MultiComboBox.js;Resource def - contribution.xml;",
-   "title": "There were 3 changes in the component."
-}, 
-{
-   "author": "n/a",
-   "changes": [
-      {
-         "change": "Resource MultiComboBox - MultiComboBox.js",
-         "status": "untested"
-      },
-      {
-         "change": "Resource def - contribution.xml",
-         "status": "untested"
-      }
-   ],
-   "date": "2016-1-8",
-   "filterValue": "change",
-   "icon": "sap-icon://notes",
-   "test-comment": "some component content has been changed, see details",
-   "test-icon": "sap-icon://notification",
-   "test-status": "untested",
-   "text": "Changes: Resource MultiComboBox - MultiComboBox.js;Resource def - contribution.xml;",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource spec - specification.json;",
    "title": "There were 2 changes in the component."
 }, 
 {
-   "date":"2016-1-7",
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property columnNumber",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTile.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getColumnNumber",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setColumnNumber",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-9-24",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property columnNumber;Resource KpiTile - KpiTile.css;Resource KpiTile - KpiTile.js;Resource spec - specification.json;New Ztl Function getColumnNumber;New Ztl Function setColumnNumber;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addProperty",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getPropertyDimension",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPropertyDimension",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPropertyDimensions",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-9-24",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource spec - specification.json;Ztl Function addProperty;New Ztl Function getPropertyDimension;New Ztl Function setPropertyDimension;New Ztl Function setPropertyDimensions;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property contentResponsive",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTile.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function isContentResponsive",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setContentResponsive",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-9-24",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property contentResponsive;Resource KpiTile - KpiTile.css;Resource KpiTile - KpiTile.js;Resource spec - specification.json;New Ztl Function isContentResponsive;New Ztl Function setContentResponsive;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "New Property contentHeight",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTile.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getContentHeight",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setContentHeight",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-9-20",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property contentHeight;Resource KpiTile - KpiTile.css;Resource KpiTile - KpiTile.js;Resource spec - specification.json;New Ztl Function getContentHeight;New Ztl Function setContentHeight;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "date":"2016-9-20",
    "title":"Start of Change Log",
    "text":"Change Log has been started today, all changes in the component are now in the log",
    "author":"n/a",
