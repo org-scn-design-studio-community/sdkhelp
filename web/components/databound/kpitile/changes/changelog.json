@@ -35,6 +35,169 @@ changeLog = [
          "status": "untested"
       }
    ],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource spec - specification.json;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function addProperty",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getPropertyCast",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPropertyCast",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function setPropertyCasts",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;Resource spec - specification.json;Ztl Function addProperty;New Ztl Function getPropertyCast;New Ztl Function setPropertyCast;New Ztl Function setPropertyCasts;",
+   "title": "There were 6 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource spec - specification.json",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource spec - specification.json;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [{
+      "change": "Resource KpiTile - KpiTile.js",
+      "status": "untested"
+   }],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource KpiTile - KpiTile.js;",
+   "title": "There were 1 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource KpiTile - KpiTile.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource spec - specification.json",
+         "status": "untested"
+      }
+   ],
    "date": "2016-9-24",
    "filterValue": "change",
    "icon": "sap-icon://notes",

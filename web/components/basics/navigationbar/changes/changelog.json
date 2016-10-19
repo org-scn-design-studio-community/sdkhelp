@@ -25,6 +25,27 @@
 changeLog = [
 {
    "author": "n/a",
+   "changes": [
+      {
+         "change": "Resource NavigationBar - NavigationBar.css",
+         "status": "untested"
+      },
+      {
+         "change": "Resource NavigationBar - NavigationBar.js",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: Resource NavigationBar - NavigationBar.css;Resource NavigationBar - NavigationBar.js;",
+   "title": "There were 2 changes in the component."
+}, 
+{
+   "author": "n/a",
    "changes": [{
       "change": "New Ztl Function cleanAllSteps",
       "status": "untested"

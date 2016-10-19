@@ -27,6 +27,35 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Property referenceItem",
+         "status": "untested"
+      },
+      {
+         "change": "New Property referenceSelector",
+         "status": "untested"
+      },
+      {
+         "change": "Resource Replacer - Replacer.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property referenceItem;New Property referenceSelector;Resource Replacer - Replacer.js;Resource def - contribution.xml;",
+   "title": "There were 4 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "New Property manualTable",
          "status": "untested"
       },

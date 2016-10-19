@@ -27,6 +27,87 @@ changeLog = [
    "author": "n/a",
    "changes": [
       {
+         "change": "New Property close",
+         "status": "untested"
+      },
+      {
+         "change": "New Property entries",
+         "status": "untested"
+      },
+      {
+         "change": "New Property fields",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onChannelClosed",
+         "status": "untested"
+      },
+      {
+         "change": "New Property onChannelOpen",
+         "status": "untested"
+      },
+      {
+         "change": "New Property open",
+         "status": "untested"
+      },
+      {
+         "change": "New Property pcpFields",
+         "status": "untested"
+      },
+      {
+         "change": "New Property protocol",
+         "status": "untested"
+      },
+      {
+         "change": "New Property sappcp",
+         "status": "untested"
+      },
+      {
+         "change": "New Property sendPcpFields",
+         "status": "untested"
+      },
+      {
+         "change": "Resource WSPusher - WSPusher.js",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.xml",
+         "status": "untested"
+      },
+      {
+         "change": "Resource def - contribution.ztl",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function close",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function getLastPushMessagePcpFields",
+         "status": "untested"
+      },
+      {
+         "change": "New Ztl Function open",
+         "status": "untested"
+      },
+      {
+         "change": "Ztl Function send",
+         "status": "untested"
+      }
+   ],
+   "date": "2016-10-19",
+   "filterValue": "change",
+   "icon": "sap-icon://notes",
+   "test-comment": "some component content has been changed, see details",
+   "test-icon": "sap-icon://notification",
+   "test-status": "untested",
+   "text": "Changes: New Property close;New Property entries;New Property fields;New Property onChannelClosed;New Property onChannelOpen;New Property open;New Property pcpFields;New Property protocol;New Property sappcp;New Property sendPcpFields;Resource WSPusher - WSPusher.js;Resource def - contribution.xml;Resource def - contribution.ztl;New Ztl Function close;New Ztl Function getLastPushMessagePcpFields;New Ztl Function open;Ztl Function send;",
+   "title": "There were 17 changes in the component."
+}, 
+{
+   "author": "n/a",
+   "changes": [
+      {
          "change": "Component Title",
          "status": "untested"
       },
